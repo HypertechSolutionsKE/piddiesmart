@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Smart premium HTML5 &amp; CSS3 template</title>
+<title>Piddiesmart &amp;clothlines</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
@@ -183,7 +183,7 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Welcome to Smart online shopping </div>
+              <div class="welcome-msg ">Welcome to piddiesmart clothline </div>
             </div>
             
             <!-- top links -->
@@ -193,31 +193,6 @@
                 <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-heart"></i><span class="hidden-xs">Wishlist</span></a></div>
                 <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-rss"></i><span class="hidden-xs">Blog</span></a></div>
                 <div class="login"><a href="account_page.html"><i class="fa fa-unlock-alt"></i><span class="hidden-xs">Log In</span></a></div>
-              </div>
-              <div class="language-currency-wrapper">
-                <div class="inner-cl">
-                  <div class="block block-language form-language">
-                    <div class="lg-cur"> <span> <img src="assets/images/flag-default.jpg" alt="French"> <span class="lg-fr">French</span> <i class="fa fa-angle-down"></i> </span> </div>
-                    <ul>
-                      <li> <a class="selected" href="#"> <img src="assets/images/flag-english.jpg" alt="flag"> <span>English</span> </a> </li>
-                      <li> <a href="#"> <img src="assets/images/flag-default.jpg" alt="flag"> <span>French</span> </a> </li>
-                      <li> <a href="#"> <img src="assets/images/flag-german.jpg" alt="flag"> <span>German</span> </a> </li>
-                      <li> <a href="#"> <img src="assets/images/flag-brazil.jpg" alt="flag"> <span>Brazil</span> </a> </li>
-                      <li> <a href="#"> <img src="assets/images/flag-chile.jpg" alt="flag"> <span>Chile</span> </a> </li>
-                      <li> <a href="#"> <img src="assets/images/flag-spain.jpg" alt="flag"> <span>Spain</span> </a> </li>
-                    </ul>
-                  </div>
-                  <div class="block block-currency">
-                    <div class="item-cur"> <span>USD </span> <i class="fa fa-angle-down"></i></div>
-                    <ul>
-                      <li> <a href="#"><span class="cur_icon">€</span> EUR</a> </li>
-                      <li> <a href="#"><span class="cur_icon">¥</span> JPY</a> </li>
-                      <li> <a class="selected" href="#"><span class="cur_icon">$</span> USD</a> </li>
-                    </ul>
-                  </div>
-                </div>
-                
-                <!-- End Default Welcome Message --> 
               </div>
             </div>
           </div>

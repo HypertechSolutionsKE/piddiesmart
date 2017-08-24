@@ -9,7 +9,6 @@ class Home extends CI_Controller {
 	function index(){
 	
 		$data['main_content'] = 'fe/home';
-		
 		$this->load->view('fe/includes/template',$data);
 	}
 	

@@ -1,5 +1,4 @@
- <body class="cms-index-index cms-home-page">
-  <div class="main-slideshow">
+<div class="main-slideshow">
     <div class="home-slider">
       <div class="wpb_wrapper">
         <div class="wpb_revslider_element wpb_content_element">
@@ -29,7 +28,7 @@
                       Cras pretium arcu ex.</p>
                   </div>
                   <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="90" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="index.html#" class="btn outline btn-white" style="font-size: 12px;" target="_blank">View more</a> <a href="index.html#" class="btn outline btn-color" style="font-size: 12px; margin-left: 15px;" target="_blank">All Shop</a> </div>
+                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="90" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 12px;" target="_blank">View more</a> <a href="#" class="btn outline btn-color" style="font-size: 12px; margin-left: 15px;" target="_blank">All Shop</a> </div>
                 </li>
                 <!-- SLIDE  -->
                 <li data-index="rs-14" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-7" data-description=""> 
@@ -55,7 +54,7 @@
                       sed diam nonummy nibh euismod tincidunt ut laoree.</p>
                   </div>
                   <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="70" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="index.html#" class="btn outline btn-white" target="_blank">View Collection</a> <a href="index.html#" class="btn outline btn-color" style="padding: 6px 20px; margin-left: 15px;" target="_blank">Buy now</a> </div>
+                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="70" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" target="_blank">View Collection</a> <a href="#" class="btn outline btn-color" style="padding: 6px 20px; margin-left: 15px;" target="_blank">Buy now</a> </div>
                 </li>
                 
                 <!-- SLIDE  -->
@@ -85,7 +84,7 @@
                       adipiscing diam cursus </p>
                   </div>
                   <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="130" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="index.html#" class="btn outline btn-white" style="font-size: 13px; border-width: 1px; border-color: #fff; padding: 6px 40px;" target="_blank">See More</a> <a href="index.html#" class="btn outline btn-color" style="font-size: 13px; margin-left: 15px;" target="_blank">View more</a> </div>
+                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="130" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 13px; border-width: 1px; border-color: #fff; padding: 6px 40px;" target="_blank">See More</a> <a href="#" class="btn outline btn-color" style="font-size: 13px; margin-left: 15px;" target="_blank">View more</a> </div>
                 </li>
                 <!-- SLIDE  -->
               </ul>
@@ -98,46 +97,33 @@
     <!-- .fullwidth-slider --> 
     
     <!-- .slide-slider-nav --> 
-  </div>
-  <!-- End home section --> 
-  <!-- service section -->
-<!--   
-  <div class="jtv-service-area">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-sm-4 col-xs-12">
-          <div class="jtv-service">
-            <div class="ser-icon"> <i class="fa fa-truck flip-horizontal"></i> </div>
-            <div class="service-content">
-              <h5>FREE SHIPPING WORLDWIDE </h5>
-              <p>free ship-on oder over $299.00</p>
-            </div>
+  <div class="container">
+    <div class="row">
+      <div class="jtv-banner-block">
+        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/version3/images/banner3.jpg"></a>
+          <div class="text-block">
+            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Favorites</a></div>
+            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Depth in detail </a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop for women</a></div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-4 col-xs-12">
-          <div class="jtv-service">
-            <div class="ser-icon"> <i class="fa fa-mail-forward"></i> </div>
-            <div class="service-content">
-              <h5>MONEY BACK GUARATEE! </h5>
-              <p>30 days money back guarantee!</p>
-            </div>
+        <div class="jtv-subbanner2 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
+          <div class="text-block">
+            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
+            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-4 col-xs-12">
-          <div class="jtv-service">
-            <div class="ser-icon"> <i class="fa fa-comments flip-horizontal"></i> </div>
-            <div class="service-content">
-              <h5>24/7 CUSTOMER SERVICE </h5>
-              <p>We support online 24 hours a day</p>
-            </div>
+        <div class="jtv-subbanner2 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
+          <div class="text-block">
+            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
+            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Love These Styles</a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  
-  <!--special-products-->
-  
   <div class="container">
     <div class="special-products">
       <div class="page-header">
@@ -320,7 +306,7 @@
   <!-- end main container -->
   <div class="container">
     <div class="block-static2-inner">
-      <div class="img"><a href="index.html#"><img class="alignnone size-full" src="<?php echo base_url();?>assets/images/banner6.jpg" alt="banner6"></a></div>
+      <div class="img"><a href="#"><img class="alignnone size-full" src="images/banner6.jpg" alt="banner6"></a></div>
       <div class="content">
         <h3>big offer 2016</h3>
         <h2>45% off</h2>
@@ -344,8 +330,8 @@
         <div class="col-sm-8 col-md-9 col-xs-12">
           <div class="home-tab">
             <ul class="nav home-nav-tabs home-product-tabs">
-              <li class="active"><a href="index.html#featured" data-toggle="tab" aria-expanded="false">Featured products</a></li>
-              <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false">Top Sellers</a> </li>
+              <li class="active"><a href="#featured" data-toggle="tab" aria-expanded="false">Featured products</a></li>
+              <li> <a href="#top-sellers" data-toggle="tab" aria-expanded="false">Top Sellers</a> </li>
             </ul>
             <div id="productTabContent" class="tab-content">
               <div class="tab-pane active in" id="featured">
@@ -358,7 +344,7 @@
                             <div class="product-thumb has-hover-img">
                               <div class="icon-sale-label sale-left">Sale</div>
                               <div class="icon-new-label new-right"><span>New</span></div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/products/img01.jpg" alt=""></a> <a class="hover-img" href="index.html#"><img src="<?php echo base_url();?>assets/images/products/img15.jpg" alt=""></a></figure>
+                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/products/img01.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/products/img15.jpg" alt=""></a></figure>
                               <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                             </div>
                             <div class="item-info">
@@ -530,7 +516,7 @@
                             <div class="product-thumb has-hover-img">
                               <div class="icon-sale-label sale-left">Sale</div>
                               <div class="icon-new-label new-right">New</div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/products/img15.jpg" alt=""></a> <a class="hover-img" href="index.html#"><img src="<?php echo base_url();?>assets/images/products/img06.jpg" alt=""></a></figure>
+                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/products/img15.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/products/img06.jpg" alt=""></a></figure>
                               <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                             </div>
                             <div class="item-info">
@@ -698,12 +684,12 @@
         <div class="col-md-3 col-sm-4 col-xs-12">
           <div class="jtv-banner-top">
             <div class="jtv-banner-box">
-              <div class=""> <a class="jtv-banner-inner-text" href="index.html#">
+              <div class=""> <a class="jtv-banner-inner-text" href="#">
                 <div class="jtv-text">
                   <p class="animated animate1"><span>sale up to</span><span>25% off</span></p>
                   <p class="animated animate2">On selected products</p>
                 </div>
-                <div class="jtv-banner-box-image"> <img src="<?php echo base_url();?>assets/images/chair-img.png" alt="Catbox-Images"> </div>
+                <div class="jtv-banner-box-image"> <img src="images/chair-img.png" alt="Catbox-Images"> </div>
                 </a> </div>
             </div>
             <!-- End jtv-banner-box --> 
@@ -712,302 +698,3 @@
       </div>
     </div>
   </div>
-  <div class="top-banner">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="jtv-banner3">
-            <div class="jtv-banner3-inner"><a href="index.html#"><img src="<?php echo base_url();?>assets/images/banner3.jpg" alt=""></a>
-              <div class="hover_content">
-                <div class="hover_data">
-                  <div class="title"> new trend </div>
-                  <div class="desc-text"> Lorem ipsum dolor sit</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="jtv-banner1"><a href="index.html#"><img src="<?php echo base_url();?>assets/images/banner1.jpg" alt=""></a>
-            <div class="hover_content">
-              <div class="hover_data">
-                <div class="title"> Season sale </div>
-                <div class="desc-text"> offer </div>
-                <div class="shop-now"><a href="index.html#">Shop now</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="jtv-banner2"><a href="index.html#"><img src="<?php echo base_url();?>assets/images/banner2.jpg" alt=""></a>
-            <div class="hover_content">
-              <div class="hover_data">
-                <div class="title"> New year Sale</div>
-                <div class="desc-text"> 35% Off all items </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <!-- category area start -->
-  <div class="jtv-category-area">
-    <div class="container">
-      <div class="row"> <!-- banner -->
-        <div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="jtv-banner">
-            <div class="upper">
-              <div class="jtv-subbanner1"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/images/banner4.jpg"></a>
-                <div class="text-block">
-                  <div class="text1"><a href="index.html#"> Shoes</a></div>
-                  <div class="text2"><a href="index.html#">special offer</a></div>
-                  <div class="text3"><a href="index.html#">35% off</a></div>
-                </div>
-              </div>
-              <div class="jtv-subbanner2"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/images/banner5.jpg"></a>
-                <div class="text-block">
-                  <div class="text1"><a href="index.html#">Handbag</a></div>
-                  <div class="text2"><a href="index.html#">Best offer</a></div>
-                  <div class="text3"><a href="index.html#">25% off</a></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-8 col-sm-12 col-xs-12">
-          <div class="jtv-single-cat">
-            <div class="page-header">
-              <h2>Best sale of week</h2>
-            </div>
-            <div class="jtv-product">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img10.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img11.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img12.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img13.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img14.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img15.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> $456.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img08.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img07.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> $456.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img06.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img05.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> $456.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/products/img02.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/products/img01.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Lorem ipsum dolor sit amet</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">$225.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-cart"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- category-area end -->
-  <div class="container">
-    <div class="row"> 
-      
-      <!-- daily deal section-->
-      <div class="col-md-6">
-        <div class="daily-deal-section daily-deal-parallax">
-          <div class="daily-deal">
-            <h3 class="deal-title">DEAL THIS WEEK</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-            <div class="box-timer">
-              <div class="time" data-countdown="countdown" data-date="09-30-2017-10-20-50"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6"> 
-        <!-- Testimonials Box -->
-        <div class="testimonials">
-          <div class="slider-items-products">
-            <div id="testimonials-slider" class="product-flexslider hidden-buttons home-testimonials">
-              <div class="slider-items slider-width-col4 ">
-                <div class="holder">
-                  <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
-                    ex ea commodo consequat. </p>
-                  <div class="thumb"> <img src="<?php echo base_url();?>assets/images/testimonials-img3.jpg" alt="testimonials img"> </div>
-                  <strong class="name">John Doe</strong> <strong class="designation">CEO, Company</strong> </div>
-                <div class="holder">
-                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
-                    ex ea commodo consequat. fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-                  <div class="thumb"> <img src="<?php echo base_url();?>assets/images/testimonials-img1.jpg" alt="testimonials img"> </div>
-                  <strong class="name">Vince Roy</strong> <strong class="designation">CEO, Newspaper</strong> </div>
-                <div class="holder">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 
-                    minim veniam, quis nostrud. </p>
-                  <div class="thumb"> <img src="<?php echo base_url();?>assets/images/testimonials-img2.jpg" alt="testimonials img"> </div>
-                  <strong class="name">John Doe</strong> <strong class="designation">CEO, ABC Softwear</strong> </div>
-                <div class="holder">
-                  <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
-                    ex ea commodo consequat.</p>
-                  <div class="thumb"> <img src="<?php echo base_url();?>assets/images/testimonials-img4.jpg" alt="testimonials img"> </div>
-                  <strong class="name">Vince Roy</strong> <strong class="designation">CEO, XYZ Softwear</strong> </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Testimonials Box --> 
-      
-    </div>
-  </div>
-  <!-- Latest news start -->
-  
-  <div class="container">
-    <div id="latest-news" class="news">
-      <div class="page-header">
-        <h2>Latest news</h2>
-      </div>
-      <div class="slider-items-products">
-        <div id="latest-news-slider" class="product-flexslider hidden-buttons">
-          <div class="slider-items slider-width-col6"> 
-            
-            <!-- Item -->
-            <div class="item">
-              <div class="jtv-single-blog">
-                <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/images/blog-img1.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="index.html#"> <span class="month-date"><small>20</small>Feb</span> </a> </span> </div>
-                <div class="blog-content">
-                  <div class="title-desc"> <a href="single_post.html">
-                    <h4>Sed do eiusmod sit amet</h4>
-                    </a>
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
-                  </div>
-                  <div class="blog-info"> <span class="author-name"> <i class="fa fa-user"></i>By <a href="index.html#">John Doe</a> </span> <span class="comments-number"> <i class="fa fa-comment"></i>20 Comment </span> </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Item --> 
-            
-            <!-- Item -->
-            <div class="item">
-              <div class="jtv-single-blog">
-                <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/images/blog-img2.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="index.html#"> <span class="month-date"><small>15</small>Mar</span> </a> </span> </div>
-                <div class="blog-content">
-                  <div class="title-desc"> <a href="single_post.html">
-                    <h4>Lorem ipsum dolor sit amet</h4>
-                    </a>
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
-                  </div>
-                  <div class="blog-info"> <span class="author-name"> <i class="fa fa-user"></i>By <a href="index.html#">Vince Roy</a> </span> <span class="comments-number"> <i class="fa fa-comment"></i>20 Comment </span> </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Item --> 
-            <!-- Item -->
-            <div class="item">
-              <div class="jtv-single-blog">
-                <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/images/blog-img3.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="index.html#"> <span class="month-date"><small>30</small>Aug</span> </a> </span> </div>
-                <div class="blog-content">
-                  <div class="title-desc"> <a href="single_post.html">
-                    <h4>Sed do eiusmod sit amet</h4>
-                    </a>
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
-                  </div>
-                  <div class="blog-info"> <span class="author-name"> <i class="fa fa-user"></i>By <a href="index.html#">John Doe</a> </span> <span class="comments-number"> <i class="fa fa-comment"></i>20 Comment </span> </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Item --> 
-            <!-- Item -->
-            <div class="item">
-              <div class="jtv-single-blog">
-                <div class="blog-image"> <a href="single_post.html"> <img src="<?php echo base_url();?>assets/images/blog-img4.jpg" alt="Blog"> </a> <span class="blog-date"> <a href="index.html#"> <span class="month-date"><small>08</small>Jun</span> </a> </span> </div>
-                <div class="blog-content">
-                  <div class="title-desc"> <a href="single_post.html">
-                    <h4>Lorem ipsum dolor sit amet</h4>
-                    </a>
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,</p>
-                  </div>
-                  <div class="blog-info"> <span class="author-name"> <i class="fa fa-user"></i>By <a href="index.html#">Vince Roy</a> </span> <span class="comments-number"> <i class="fa fa-comment"></i>20 Comment </span> </div>
-                </div>
-              </div>
-            </div>
-            <!-- End Item --> 
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  
-  

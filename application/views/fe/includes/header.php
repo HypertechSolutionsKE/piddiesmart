@@ -20,8 +20,6 @@
 <!-- CSS Style -->
 <link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
 
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-
 <link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
 
 </head>

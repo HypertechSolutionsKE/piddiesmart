@@ -11,5 +11,10 @@ class Home extends CI_Controller {
 		$data['main_content'] = 'fe/home';
 		$this->load->view('fe/includes/template',$data);
 	}
+	function quickview(){
+	
+		$data['main_content'] = 'fe/quick_view';
+		$this->load->view('fe/includes/template',$data);
+	}
 	
 }

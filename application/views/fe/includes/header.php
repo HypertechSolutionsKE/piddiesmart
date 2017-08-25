@@ -183,16 +183,16 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Welcome to piddiesmart clothline </div>
+              <div class="welcome-msg ">Welcome to piddiesmart clothingline </div>
             </div>
             
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-8 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-user"></i><span class="hidden-xs">My Account</span></a></div>
-                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-heart"></i><span class="hidden-xs">Wishlist</span></a></div>
-                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-rss"></i><span class="hidden-xs">Blog</span></a></div>
-                <div class="login"><a href="account_page.html"><i class="fa fa-unlock-alt"></i><span class="hidden-xs">Log In</span></a></div>
+                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">facebook</span></a></div>
+                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">twitter</span></a></div>
+                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">instagram</span></a></div>
+               
               </div>
             </div>
           </div>
@@ -215,75 +215,17 @@
                   <ul class="menu-items col-md-3 col-sm-4 col-xs-12">
                     <li class="menu-item depth-1">
                       <div class="title"> <a href="../index.html"><span>Home Version 1</span></a></div>
-                    </li>
-                
+                    </li>               
                   </ul>
                 </li>
                 <li class="mt-root">
                   <div class="mt-root-item"><a href="#">
                     <div class="title title_font"><span class="title-text">Page</span></div>
                     </a></div>
-                  <ul class="menu-items col-xs-12">
-                    <li class="menu-item depth-1 menucol-1-3 ">
-                      <div class="title title_font"> <a href="#"> Shop Pages </a></div>
-                      <ul class="submenu">
-                        <li class="menu-item">
-                          <div class="title"> <a href="shop_grid.html"> Shop grid </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="shop_grid_right_sidebar.html"> Shop grid right sidebar</a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="shop_list.html"> Shop list </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="shop_list_right_sidebar.html"> Shop list right sidebar</a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="shop_grid_full_width.html"> Shop grid full width </a></div>
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="menu-item depth-1 menucol-1-3 ">
-                      <div class="title title_font"> <a href="#"> Ecommerce Pages </a></div>
-                      <ul class="submenu">
-                        <li class="menu-item">
-                          <div class="title"> <a href="wishlist.html"> Wishlists </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="checkout.html"> Checkout </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="compare.html"> Compare </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="shopping_cart.html"> Shopping cart </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="quick_view.html"> Quick View </a></div>
-                        </li>
-                      </ul>
-                    </li>
-                    
-                    
-                    
-                    <li class="menu-item depth-1 menucol-1-3 ">
-                      <div class="title title_font"> <a href="#"> Blog Pages </a></div>
-                      <ul class="submenu">
-                        <li class="menu-item">
-                          <div class="title"> <a href="blog_right_sidebar.html"> Blog – Right Sidebar </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="blog_left_sidebar.html"> Blog – Left Sidebar </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="blog_full_width.html"> Blog – Full-Width </a></div>
-                        </li>
-                        <li class="menu-item">
-                          <div class="title"> <a href="single_post.html"> Single post </a></div>
-                        </li>
-                      </ul>
-                    </li>
+                  <ul class="menu-items col-md-3 col-sm-4 col-xs-12">
+                    <li class="menu-item depth-1">
+                      <div class="title"> <a href="../index.html"><span>Home Version 1</span></a></div>
+                    </li>               
                   </ul>
                 </li>
                 <li class="mt-root">
@@ -316,44 +258,6 @@
                   </ul>
                 </li>
               </ul>
-              <!-- top cart -->
-              <div class="col-md-3 col-xs-9 col-sm-2 top-cart">
-                <div class="top-cart-contain">
-                  <div class="mini-cart">
-                    <div data-toggle="dropdown" data-hover="dropdown" class="basket dropdown-toggle"> <a href="#">
-                      <div class="cart-icon"><i class="fa fa-shopping-cart"></i></div>
-                      <div class="shoppingcart-inner hidden-xs hidden-sm"><span class="cart-title">Shopping Cart</span> <span class="cart-total">4 Item(s): $520.00</span></div>
-                      </a></div>
-                    <div>
-                      <div class="top-cart-content">
-                        <div class="block-subtitle hidden-xs">Recently added item(s)</div>
-                        <ul id="cart-sidebar" class="mini-products-list">
-                          <li class="item odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img07.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                              <p class="product-name"><a href="shopping_cart.html">Lorem ipsum dolor sit amet Consectetur</a> </p>
-                              <strong>1</strong> x <span class="price">$20.00</span> </div>
-                          </li>
-                          <li class="item even"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img11.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                              <p class="product-name"><a href="shopping_cart.html">Consectetur utes anet adipisicing elit</a> </p>
-                              <strong>1</strong> x <span class="price">$230.00</span> </div>
-                          </li>
-                          <li class="item last odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img10.jpg" alt="Lorem ipsum dolor" width="65"></a>
-                            <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
-                              <p class="product-name"><a href="shopping_cart.html">Sed do eiusmod tempor incidist</a> </p>
-                              <strong>2</strong> x <span class="price">$420.00</span> </div>
-                          </li>
-                        </ul>
-                        <div class="top-subtotal">Subtotal: <span class="price">$520.00</span></div>
-                        <div class="actions">
-                          <button class="btn-checkout" type="button"><i class="fa fa-check"></i><span>Checkout</span></button>
-                          <button class="view-cart" type="button"><i class="fa fa-shopping-cart"></i> <span>View Cart</span></button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </div>

@@ -288,7 +288,7 @@
               }
             },
             gridwidth:1920,
-            gridheight:650,
+            gridheight:750,
             lazyType:"none",
             shadow:0,
             spinner:"spinner0",

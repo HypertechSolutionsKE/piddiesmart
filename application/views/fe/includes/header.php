@@ -8,14 +8,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Piddiesmart &amp;clothlines</title>
+<title>Piddiesmart &amp;clothingline</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Favicon  -->
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/piddie/logo.png">
 
 <!-- CSS Style -->
 <link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
@@ -202,7 +202,7 @@
         <div class="row">
           <div class="col-sm-4 col-md-3 col-xs-8"> 
             <!-- Header Logo -->
-            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="assets/images/logo.png"></a> </div>
+            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/piddie/logo.png" width="70"></a> </div>
             <!-- End Header Logo --> 
           </div>
           <div class="col-md-9 col-sm-8 col-xs-4">
@@ -328,17 +328,17 @@
                       <div class="top-cart-content">
                         <div class="block-subtitle hidden-xs">Recently added item(s)</div>
                         <ul id="cart-sidebar" class="mini-products-list">
-                          <li class="item odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="assets/../images/products/img07.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                          <li class="item odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img07.jpg" alt="Lorem ipsum dolor" width="65"></a>
                             <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
                               <p class="product-name"><a href="shopping_cart.html">Lorem ipsum dolor sit amet Consectetur</a> </p>
                               <strong>1</strong> x <span class="price">$20.00</span> </div>
                           </li>
-                          <li class="item even"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="assets/../images/products/img11.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                          <li class="item even"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img11.jpg" alt="Lorem ipsum dolor" width="65"></a>
                             <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
                               <p class="product-name"><a href="shopping_cart.html">Consectetur utes anet adipisicing elit</a> </p>
                               <strong>1</strong> x <span class="price">$230.00</span> </div>
                           </li>
-                          <li class="item last odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="assets/../images/products/img10.jpg" alt="Lorem ipsum dolor" width="65"></a>
+                          <li class="item last odd"> <a href="shopping_cart.html" title="Ipsums Dolors Untra" class="product-image"><img src="<?php echo base_url();?>assets/../images/products/img10.jpg" alt="Lorem ipsum dolor" width="65"></a>
                             <div class="product-details"> <a href="#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a>
                               <p class="product-name"><a href="shopping_cart.html">Sed do eiusmod tempor incidist</a> </p>
                               <strong>2</strong> x <span class="price">$420.00</span> </div>

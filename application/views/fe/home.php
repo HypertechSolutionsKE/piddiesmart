@@ -10,22 +10,22 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-17" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600" data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/slider-bg1.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/piddie/slide6.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYERS --> 
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="-90" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-size: 15px; color: #333; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> DESIGN NEW STYLE </p>
+                    <!-- <p class="text-center" style="font-size: 15px; color: #333; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> DESIGN NEW STYLE </p> -->
                   </div>
                   
                   <!-- LAYER NR. 3 -->
                   <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="-40" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <h1 class="text-center" style="font-size: 65px; color: #1267b3; font-weight: bold; text-transform: uppercase;">New collection</h1>
+                    <!-- <h1 class="text-center" style="font-size: 65px; color: #1267b3; font-weight: bold; text-transform: uppercase;">New collection</h1> -->
                   </div>
                   
                   <!-- LAYER NR. 6 -->
                   <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="20" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-style: italic; font-size: 15px; color: #666;"> Donec vitae hendrerit arcu, sit amet faucibus nisl.<br>
-                      Cras pretium arcu ex.</p>
+                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #666;"> Donec vitae hendrerit arcu, sit amet faucibus nisl.<br>
+                      Cras pretium arcu ex.</p> -->
                   </div>
                   <!-- LAYER NR. 7 -->
                   <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="90" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 12px;" target="_blank">View more</a> <a href="#" class="btn outline btn-color" style="font-size: 12px; margin-left: 15px;" target="_blank">All Shop</a> </div>
@@ -33,25 +33,25 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-14" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-7" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/slider-bg2.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/piddie/slide5.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Lookbook 2016 </p>
+                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Lookbook 2016 </p> -->
                   </div>
                   
                   <!-- LAYER NR. 3 -->
                   <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <h1 class="text-center" style="font-size: 55px; color: #fff; font-weight: bold; text-transform: uppercase;">Hot</h1>
+                    <!-- <h1 class="text-center" style="font-size: 55px; color: #fff; font-weight: bold; text-transform: uppercase;">Hot</h1> -->
                   </div>
                   <!-- LAYER NR. 4 -->
                   <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-30" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <h2 class="text-center" style="font-size: 38px; color: #fff; font-weight: bold; text-transform: uppercase;">Collection</h2>
+                    <!-- <h2 class="text-center" style="font-size: 38px; color: #fff; font-weight: bold; text-transform: uppercase;">Collection</h2> -->
                   </div>
                   
                   <!-- LAYER NR. 6 -->
                   <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="20" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>
-                      sed diam nonummy nibh euismod tincidunt ut laoree.</p>
+                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>
+                      sed diam nonummy nibh euismod tincidunt ut laoree.</p> -->
                   </div>
                   <!-- LAYER NR. 7 -->
                   <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="70" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" target="_blank">View Collection</a> <a href="#" class="btn outline btn-color" style="padding: 6px 20px; margin-left: 15px;" target="_blank">Buy now</a> </div>
@@ -60,28 +60,28 @@
                 <!-- SLIDE  -->
                 <li data-index="rs-15" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
                   <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/slider/slider-bg3.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
+                  <img src="<?php echo base_url();?>assets/images/piddie/slide8.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
                   <!-- LAYERS --> 
                   
                   <!-- LAYERS --> 
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Luxury Underwear </p>
+                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Luxury Underwear </p> -->
                   </div>
                   
                   <!-- LAYER NR. 3 -->
                   <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <h1 class="text-center" style="font-size: 65px; color: #fff; font-weight: bold; text-transform: uppercase;"> Season sale </h1>
+                    <!-- <h1 class="text-center" style="font-size: 65px; color: #fff; font-weight: bold; text-transform: uppercase;"> Season sale </h1> -->
                   </div>
                   <!-- LAYER NR. 4 -->
                   <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-20" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <h2 class="text-center" style="font-size: 50px; color: #fff; font-weight: bold; text-transform: uppercase;">75% off</h2>
+                    <!-- <h2 class="text-center" style="font-size: 50px; color: #fff; font-weight: bold; text-transform: uppercase;">75% off</h2> -->
                   </div>
                   
                   <!-- LAYER NR. 6 -->
                   <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;"> Sed lacinia urna a tincidunt mattis tortor neque<br>
-                      adipiscing diam cursus </p>
+                   <!--  <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;"> Sed lacinia urna a tincidunt mattis tortor neque<br>
+                      adipiscing diam cursus </p> -->
                   </div>
                   <!-- LAYER NR. 7 -->
                   <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="130" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 13px; border-width: 1px; border-color: #fff; padding: 6px 40px;" target="_blank">See More</a> <a href="#" class="btn outline btn-color" style="font-size: 13px; margin-left: 15px;" target="_blank">View more</a> </div>
@@ -95,35 +95,37 @@
       </div>
     </div>
     <!-- .fullwidth-slider --> 
-    
-    <!-- .slide-slider-nav --> 
+  </div>
+    <!-- .three quick buttons --> 
   <div class="container">
     <div class="row">
       <div class="jtv-banner-block">
         <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/version3/images/banner3.jpg"></a>
           <div class="text-block">
-            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Favorites</a></div>
-            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Depth in detail </a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop for women</a></div>
+            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Piddiesmart</a></div> -->
+           <!--  <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Depth in detail </a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop for women</a></div> -->
           </div>
         </div>
-        <div class="jtv-subbanner2 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
+        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
           <div class="text-block">
-            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
+            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
             <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div> -->
           </div>
         </div>
-        <div class="jtv-subbanner2 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
+        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
           <div class="text-block">
-            <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
+            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
             <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Love These Styles</a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div> -->
           </div>
         </div>
       </div>
     </div>
   </div>
+
+
   <div class="container">
     <div class="special-products">
       <div class="page-header">
@@ -135,15 +137,15 @@
             <div class="slider-items slider-width-col4">
               <div class="product-item">
                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="#">
                     <figure> <img src="<?php echo base_url();?>assets/images/products/img10.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img01.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="#" href="single_product.html">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
@@ -160,15 +162,15 @@
               </div>
               <div class="product-item">
                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
+                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/products/img13.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img03.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
@@ -188,15 +190,15 @@
               </div>
               <div class="product-item">
                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
+                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/products/img09.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img05.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="#" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
@@ -218,15 +220,15 @@
                 <div class="item-inner">
                   <div class="icon-sale-label sale-left">Sale</div>
                   <div class="icon-new-label new-right">New</div>
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
+                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/products/img12.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img06.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="#" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
@@ -245,15 +247,15 @@
                 <div class="item-inner">
                   <div class="product-thumb has-hover-img">
                     <div class="icon-new-label new-left">New</div>
-                    <a title="Ipsums Dolors Untra" href="single_product.html">
+                    <a title="Ipsums Dolors Untra" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/products/img05.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img08.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
@@ -273,15 +275,15 @@
               </div>
               <div class="product-item">
                 <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
+                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/products/img06.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/products/img01.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
                       <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
                       </div>
                       <div class="item-content">
                         <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>

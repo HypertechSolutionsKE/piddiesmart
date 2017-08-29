@@ -48,7 +48,7 @@
     <div class="footer-coppyright">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2017 <a href="#"> Hypertech Solutions </a>. All Rights Reserved. </div>
+          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © <?php echo date('Y'); ?> <a href="#"> PiddieSmart </a>. All Rights Reserved. </div>
           <div class="col-sm-6 col-xs-12">
             <div class="payment">
               <ul>

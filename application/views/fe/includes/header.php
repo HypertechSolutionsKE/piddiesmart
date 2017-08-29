@@ -183,15 +183,15 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Welcome to piddiesmart clothingline </div>
+              <div class="welcome-msg ">Welcome to PiddieSmart Clothing Line </div>
             </div>
             
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-12 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">facebook</span></a></div>
-                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">twitter</span></a></div>
-                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">instagram</span></a></div>
+                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">Facebook</span></a></div>
+                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">Twitter</span></a></div>
+                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">Instagram</span></a></div>
                
               </div>
             </div>
@@ -265,3 +265,16 @@
     </div>
   </header>
   <!-- end header --> 
+
+  <!-- Navbar -->
+  <nav class="hidden-sm hidden-md hidden-lg">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-4 col-xs-3">
+          <div class="mm-toggle-wrap">
+            <div class="mm-toggle"> <i class="fa fa-align-justify"></i> </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!-- end nav --> 

@@ -7481,7 +7481,7 @@ label[for="rememberme"] {
 	-o-transition: all 0.3s ease;
 }
 .text1 a {
-	color: #2b2b2b;
+	color: #fff;
 	font-size: 28px;
 	font-weight: 900;
 	text-transform: uppercase;
@@ -7493,7 +7493,7 @@ label[for="rememberme"] {
 	-o-transition: all 0.3s ease;
 }
 .text2 a {
-	color: #555555;
+	color: #fff;
 	font-size: 15px;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -7894,5 +7894,10 @@ to {
 	width: 1200px;
 }
 .mmPushBody .fa-align-justify:before {
-	content: "\f00d";
+	content: "f00d";
+}
+.fontwhite {
+	color: #ffffff; 
+	font-size: 14px; 
+	font-weight: bold;
 }

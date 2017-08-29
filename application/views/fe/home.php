@@ -50,7 +50,7 @@
                   
                   <!-- LAYER NR. 6 -->
                   <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="20" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,<br>
+                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;">Public Address Systems, consectetuer adipiscing elit,<br>
                       sed diam nonummy nibh euismod tincidunt ut laoree.</p> -->
                   </div>
                   <!-- LAYER NR. 7 -->
@@ -130,7 +130,7 @@
   <div class="container">
     <div class="special-products">
       <div class="page-header">
-        <h2>special products</h2>
+        <h2>Piddiesmart Clothings</h2>
       </div>
       <div class="special-products-pro">
         <div class="slider-items-products">
@@ -141,7 +141,7 @@
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="quickview">
                     <figure> <img src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="popup" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="popup" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -154,7 +154,9 @@
                           <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+
                         </div>
                       </div>
                     </div>
@@ -166,7 +168,7 @@
                   <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""> <img class="hover-img" ssrc="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a></div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -180,7 +182,8 @@
                             <p class="old-price"> <span class="price-label">Regular Price:</span></p>
                           </div>
                           <div class="pro-action">
-                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                    <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+
                           </div>
                         </div>
                       </div>
@@ -195,9 +198,9 @@
                   <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/piddie/005.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/005.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
                   </div>
-                  <div class="item-info">
+                  <div class="item-info" >
                     <div class="info-inner">
                       <div class="item-title">
                         <h4><a title="Ipsums Dolors Untra" href="#">Hoodies </a></h4>
@@ -210,7 +213,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -224,7 +227,7 @@
                   <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a></div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -236,7 +239,9 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+
                         </div>
                       </div>
                     </div>
@@ -250,7 +255,7 @@
                   <div class="product-thumb has-hover-img"> <a title="#" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/piddie/019.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/019.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="#" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="#" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -263,7 +268,8 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5500.00 </span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -277,7 +283,7 @@
                     <a title="Ipsums Dolors Untra" href="#">
                     <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/piddie/014.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/014.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -293,7 +299,9 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+
                         </div>
                       </div>
                     </div>
@@ -331,11 +339,11 @@
       <div class="row"> 
         
         <!-- Home Tabs  -->
-        <div class="col-sm-8 col-md-9 col-xs-12">
+        <div class="col-md-9">
           <div class="home-tab">
             <ul class="nav home-nav-tabs home-product-tabs">
-              <li class="active"><a href="#featured" data-toggle="tab" aria-expanded="false">Featured products</a></li>
-              <li> <a href="#top-sellers" data-toggle="tab" aria-expanded="false">Top Sellers</a> </li>
+              <li class="active"><a href="index.html#featured" data-toggle="tab" aria-expanded="false">Piddiesmart Cosmetics</a></li>
+              <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
             </ul>
             <div id="productTabContent" class="tab-content">
               <div class="tab-pane active in" id="featured">
@@ -348,13 +356,13 @@
                             <div class="product-thumb has-hover-img">
                               <div class="icon-sale-label sale-left">Sale</div>
                               <div class="icon-new-label new-right"><span>New</span></div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""></a></figure>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/cosmetic/39.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/cosmetic/34.jpg" alt=""></a></figure>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
@@ -362,7 +370,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -372,24 +380,24 @@
                         <div class="product-item">
                           <div class="item-inner">
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/32.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/42.jpg" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit  </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
                                   <div class="item-price">
                                     <div class="price-box">
-                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> $456.00 </span> </p>
-                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
+                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
+                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000 </span> </p>
                                     </div>
                                     <div class="pro-action">
-                                      <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                      <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                     </div>
                                   </div>
                                 </div>
@@ -400,25 +408,25 @@
                         <div class="product-item">
                           <div class="item-inner">
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/014.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/014.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/38.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/34.jpg" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a>  </div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a>  </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
                                   <div class="item-price">
                                     <div class="price-box">
-                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> $456.00 </span> </p>
-                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
+                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
+                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 3000.00 </span> </p>
                                     </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -430,22 +438,22 @@
                             <div class="icon-sale-label sale-left">Sale</div>
                             <div class="icon-new-label new-right">New</div>
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/019.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/019.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/34.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/35.jpg" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a></div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html"> Sweatpant Suit  </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
                                   <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
+                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -456,22 +464,22 @@
                         <div class="product-item">
                           <div class="item-inner">
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/40.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/42.jpg" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
                                   <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
+                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 2500.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -493,21 +501,21 @@
                             <div class="product-thumb has-hover-img">
                               <div class="icon-sale-label sale-left">Sale</div>
                               <div class="icon-new-label new-right">New</div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/piddie/002.jpg" alt=""></a></figure>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"></a> </div>
+                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/cosmetic/38.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/cosmetic/39.jpg" alt=""></a></figure>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
                                 </div>
                                 <div class="item-content">
                                   
                                   <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
+                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 500.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -520,22 +528,22 @@
                             <div class="icon-sale-label sale-left">Sale</div>
                             <div class="icon-new-label new-right">New</div>
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/004.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/39.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/40" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
                                 </div>
                                 <div class="item-content">
                                   <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                                   <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
+                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kesh 5000.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -546,22 +554,22 @@
                         <div class="product-item">
                           <div class="item-inner">
                             <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""></figure>
+                              <figure> <img src="<?php echo base_url();?>assets/images/cosmetic/41.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/cosmetic/42.jpg" alt=""></figure>
                               </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
+                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
                             </div>
                             <div class="item-info">
                               <div class="info-inner">
                                 <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Ipsums Dolors Untra </a></h4>
+                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit  </a></h4>
                                 </div>
                                 <div class="item-content">
                                   <div class="rating"> <i class="fa fa-star-o"></i></div>
                                   <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
+                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kesh 5000.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -583,14 +591,143 @@
           <div class="jtv-banner-top">
             <div class="jtv-banner-box">
               <div class=""> <a class="jtv-banner-inner-text" href="#">
-                <div class="jtv-text">
+                <div class="jtv-text" style="background-color: yellow; opacity: 0.9; padding:20px">
                   <p class="animated animate1"><span>sale up to</span><span>25% off</span></p>
                   <p class="animated animate2">On selected products</p>
                 </div>
+
                 <div class="jtv-banner-box-image"> <img src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt="Catbox-Images"> </div>
                 </a> </div>
             </div>
             <!-- End jtv-banner-box --> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- category area start -->
+  <div class="jtv-category-area">
+    <div class="container">
+      <div class="row"> <!-- banner -->
+        <div class="col-md-4 col-sm-12 col-xs-12">
+          <div class="jtv-banner">
+            <div class="upper">
+              <div class="jtv-subbanner1"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/images/sound/5.jpg"></a>
+                <div class="text-block">
+                  <div class="text1"><a href="index.html#"> Microphones</a></div>
+                  <div class="text2"><a href="index.html#">special offer</a></div>
+                  <div class="text3"><a href="index.html#">35% off</a></div>
+                </div>
+              </div>
+              <div class="jtv-subbanner2"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/images/sound/7.jpg"></a>
+                <div class="text-block">
+                  <div class="text1"><a href="index.html#">Speakers</a></div>
+                  <div class="text2"><a href="index.html#">Best offer</a></div>
+                  <div class="text3"><a href="index.html#">25% off</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-8 col-sm-12 col-xs-12">
+          <div class="jtv-single-cat">
+            <div class="page-header">
+              <h2>Piddiesmart Sound</h2>
+            </div>
+            <div class="jtv-product">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="jtv-product">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="jtv-product jtv-cat-margin">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/5.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/6" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box">
+                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
+                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 6000.00 </span> </p>
+                </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="jtv-product jtv-cat-margin">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/7.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box">
+                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
+                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000.00 </span> </p>
+                </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="jtv-product jtv-cat-margin">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box">
+                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
+                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000.00 </span> </p>
+                </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="jtv-product jtv-cat-margin">
+              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""> </a> </div>
+              <div class="jtv-product-content">
+                <h3><a href="single_product.html">Public Address Systems</a></h3>
+                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
+                <div class="jtv-product-action">
+                  <div class="jtv-extra-link">
+                    <div class="button-cart">
+                      <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

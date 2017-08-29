@@ -189,9 +189,9 @@
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-12 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">facebook</span></a></div>
-                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">twitter</span></a></div>
-                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">instagram</span></a></div>
+                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">Facebook</span></a></div>
+                <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">Twitter</span></a></div>
+                <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram"></i><span class="hidden-xs">Instagram</span></a></div>
                
               </div>
             </div>

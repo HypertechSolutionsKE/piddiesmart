@@ -210,7 +210,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> Order </span> </button>
                         </div>
                       </div>
                     </div>
@@ -236,7 +236,7 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> Order </span> </button>
                         </div>
                       </div>
                     </div>

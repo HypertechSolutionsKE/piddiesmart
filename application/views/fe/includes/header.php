@@ -183,7 +183,7 @@
           <div class="row">
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg ">Welcome to piddiesmart clothingline </div>
+              <div class="welcome-msg ">Welcome to PiddieSmart Clothing Line </div>
             </div>
             
             <!-- top links -->
@@ -265,3 +265,16 @@
     </div>
   </header>
   <!-- end header --> 
+
+  <!-- Navbar -->
+  <nav class="hidden-sm hidden-md hidden-lg">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-4 col-xs-3">
+          <div class="mm-toggle-wrap">
+            <div class="mm-toggle"> <i class="fa fa-align-justify"></i> </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!-- end nav --> 

@@ -3189,7 +3189,7 @@ nav .mtmegamenu {
 	overflow: hidden
 }
 .mtmegamenu .mt-root-item {
-	float: left;
+	float: right;
 	cursor: pointer;
 	overflow: hidden;
 	white-space: nowrap;

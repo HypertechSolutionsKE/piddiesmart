@@ -2,9 +2,9 @@
   <footer> 
     
 
-    <div class="container" style="padding-top: 60px">
+    <div class="container" style="padding-top: 60px;text-align: center;">
       <div class="row">
-        <div class="col-sm-6 col-md-3 col-xs-12 col-lg-2 collapsed-block">
+        <div class="col-sm-4">
           <div class="footer-links">
             <h3 class="links-title">Information<a class="expander visible-xs" href="#TabBlock-1">+</a></h3>
             <div class="tabBlock" id="TabBlock-1">
@@ -15,7 +15,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-xs-12 col-lg-2 collapsed-block">
+        <div class="col-sm-4">
           <div class="footer-links">
             <h3 class="links-title">Insider<a class="expander visible-xs" href="#TabBlock-3">+</a></h3>
             <div class="tabBlock" id="TabBlock-3">
@@ -26,31 +26,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-2 col-xs-12 col-lg-2 collapsed-block">
-          <div class="footer-links">
-            <h3 class="links-title">Service<a class="expander visible-xs" href="#TabBlock-4">+</a></h3>
-            <div class="tabBlock" id="TabBlock-4">
-              <ul class="list-links list-unstyled">
-                <li> <a href="account_page.html">Account</a> </li>
-                
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 col-xs-12 col-lg-3">
-          <h3 class="links-title">Contact us</h3>
-
-          <div class="footer-content">
-            <div class="email"> <i class="fa fa-envelope"></i>
-              <p>Support@themes.com</p>
-            </div>
-            <div class="phone"> <i class="fa fa-phone"></i>
-              <p>(800) 0123 456 789</p>
-            </div>
-            
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-12 col-xs-12 col-lg-3">
+        <div class="col-sm-4">
           <div class="footer-links">
           <h3 class="links-title">Social Media</h3>
             
@@ -65,12 +41,14 @@
             </div>
           </div>
         </div>
+       
+        
       </div>
     </div>
     <div class="footer-coppyright">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2016 <a href="#"> Smart </a>. All Rights Reserved. </div>
+          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2017 <a href="#"> Hypertech Solutions </a>. All Rights Reserved. </div>
           <div class="col-sm-6 col-xs-12">
             <div class="payment">
               <ul>
@@ -87,39 +65,13 @@
   </footer>
   <a href="#" class="totop"><i class="fa fa-arrow-up"></i></a> 
   <!-- End Footer --> 
-  <!--Newsletter Popup Start-->
-  <div id="myModal" class="modal fade">
-    <div class="modal-dialog newsletter-popup">
-      <div class="modal-content">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <div class="modal-body">
-          <h4 class="modal-title">Join Our Newsletters</h4>
-          <form id="newsletter-form" method="post" action="#">
-            <div class="content-subscribe">
-              <div class="form-subscribe-header">
-                <label>Enter your email and we'll send you a coupon with 10% off your next order.</label>
-              </div>
-              <div class="input-box">
-                <input type="text" class="input-text newsletter-subscribe" title="Sign up for our newsletter" name="email" placeholder="Enter your email address">
-              </div>
-              <div class="actions">
-                <button class="button-subscribe" title="Subscribe" type="submit">Subscribe</button>
-              </div>
-            </div>
-          </form>
-          <div class="subscribe-bottom">
-            <input name="notshowpopup" id="notshowpopup" type="checkbox">
-            Don’t show this popup again </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--End of Newsletter Popup--> 
+  
   
 </div>
 
-<!-- JS --> 
-
+<!-- JS -- 
+<script type="text/javascript" src="<?php echo base_url();?>assets/js/general.js"></script>
+   
 <!-- jquery js --> 
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.min.js"></script> 
 

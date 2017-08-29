@@ -187,7 +187,7 @@
             </div>
             
             <!-- top links -->
-            <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-8 col-xs-12">
+            <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-12 col-xs-12">
               <div class="links">
                 <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook"></i><span class="hidden-xs">facebook</span></a></div>
                 <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter"></i><span class="hidden-xs">twitter</span></a></div>
@@ -200,12 +200,12 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-4 col-md-3 col-xs-8"> 
+          <div class="col-sm-4 col-md-3 col-xs-4"> 
             <!-- Header Logo -->
             <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/piddie/logo.png" width="70"></a> </div>
             <!-- End Header Logo --> 
           </div>
-          <div class="col-md-9 col-sm-8 col-xs-4">
+          <div class="col-md-9 col-sm-8 col-xs-8">
             <div class="mtmegamenu">
               <ul class="hidden-xs">
                 <li class="mt-root demo_custom_link_cms">

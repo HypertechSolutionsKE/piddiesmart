@@ -140,7 +140,7 @@
                   <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="quickview">
                     <figure> <img src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/piddie/001.jpg" alt=""></figure>
                     </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
+                    <div class="pr-info-area animated animate2"><a href="popup" class="quick-view"><i class="fa fa-search"><span>Quick view</span></i></a> </div>
                   </div>
                   <div class="item-info">
                     <div class="info-inner">
@@ -179,7 +179,7 @@
                             <p class="old-price"> <span class="price-label">Regular Price:</span></p>
                           </div>
                           <div class="pro-action">
-                            <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
                           </div>
                         </div>
                       </div>
@@ -187,6 +187,8 @@
                   </div>
                 </div>
               </div>
+
+
               <div class="product-item">
                 <div class="item-inner">
                   <div class="product-thumb has-hover-img"> <a title="#" href="#">
@@ -573,6 +575,9 @@
             </div>
           </div>
         </div>
+
+
+
         <div class="col-md-3 col-sm-4 col-xs-12">
           <div class="jtv-banner-top">
             <div class="jtv-banner-box">
@@ -590,3 +595,5 @@
       </div>
     </div>
   </div>
+
+  

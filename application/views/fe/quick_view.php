@@ -81,7 +81,7 @@
                   </div>
                 </div>
               </div>
-              <!-- <div class="product-variation">
+              <div class="product-variation">
                 <form action="single_product.html#" method="post">
                   <div class="cart-plus-minus">
                     <label for="qty">Quantity:</label>
@@ -92,7 +92,7 @@
                     </div>
                   </div>
                   <button class="button pro-add-to-cart" title="Add to Cart" type="button"><span><i class="fa fa-shopping-cart"></i> Add to Cart</span></button>
-                </form> -->
+                </form>
               </div>
               <div class="product-cart-option">
                 <ul>

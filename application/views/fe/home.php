@@ -154,7 +154,7 @@
                           <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -180,7 +180,7 @@
                             <p class="old-price"> <span class="price-label">Regular Price:</span></p>
                           </div>
                           <div class="pro-action">
-                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-search"></i><span> View </span> </button>
+                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                           </div>
                         </div>
                       </div>
@@ -210,7 +210,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -236,7 +236,7 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -263,7 +263,7 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5500.00 </span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -293,7 +293,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                         </div>
                       </div>
                     </div>
@@ -362,7 +362,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -389,7 +389,7 @@
                                       <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> $567.00 </span> </p>
                                     </div>
                                     <div class="pro-action">
-                                      <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                      <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                     </div>
                                   </div>
                                 </div>
@@ -418,7 +418,7 @@
                                     </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -445,7 +445,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -471,7 +471,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -507,7 +507,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -535,7 +535,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>
@@ -561,7 +561,7 @@
                                     <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
                                   </div>
                                   <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Order Now</span> </button>
                                   </div>
                                 </div>
                               </div>

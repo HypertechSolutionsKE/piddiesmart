@@ -107,18 +107,19 @@
             <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop for women</a></div> -->
           </div>
         </div>
-        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
-          <div class="text-block">
-            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
-            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div> -->
-          </div>
-        </div>
+        
         <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
           <div class="text-block">
             <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
             <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Love These Styles</a></div>
             <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div> -->
+          </div>
+        </div>
+        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
+          <div class="text-block">
+            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
+            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>
+            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div> -->
           </div>
         </div>
       </div>
@@ -153,7 +154,7 @@
                           <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
                         </div>
                       </div>
                     </div>
@@ -179,7 +180,7 @@
                             <p class="old-price"> <span class="price-label">Regular Price:</span></p>
                           </div>
                           <div class="pro-action">
-                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                            <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-search"></i><span> View </span> </button>
                           </div>
                         </div>
                       </div>
@@ -209,7 +210,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
                         </div>
                       </div>
                     </div>
@@ -235,7 +236,7 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
                         </div>
                       </div>
                     </div>
@@ -262,7 +263,7 @@
                           <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5500.00 </span> </p></div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
                         </div>
                       </div>
                     </div>
@@ -292,7 +293,7 @@
                           </div>
                         </div>
                         <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-cart"></i><span> Add to Cart</span> </button>
+                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-search"></i><span> View </span> </button>
                         </div>
                       </div>
                     </div>

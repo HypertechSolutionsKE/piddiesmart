@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Piddiesmart &amp;clothingline</title>
+<title>Piddiesmart &amp;Sound</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
@@ -51,12 +51,12 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <div class="header-top" style="background-color: #2946bf">
+      <div class="header-top" style="background-color: #d93c89">
         <div class="container">
           <div class="row" >
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg fontwhite">Welcome to PiddieSmart Clothing Line </div>
+              <div class="welcome-msg fontwhite">Welcome to PiddieSmart Sounds </div>
             </div>
             
             <!-- top links -->

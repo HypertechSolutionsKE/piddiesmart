@@ -7901,18 +7901,3 @@ to {
 	font-size: 14px; 
 	font-weight: bold;
 }
-.check-box-list input[type="checkbox"]+label span.button {
-	display: inline-block;
-	width: 12px;
-	height: 12px;
-	margin-right: 6px;
-	background: url("../../version3/images/checkbox.png") no-repeat;
-	padding: 0;
-	border: none
-}
-.check-box-list label {
-	display: inline-block;
-	cursor: pointer;
-	line-height: 12px;
-	font-weight: 500;
-}

@@ -23,9 +23,9 @@
              <div class="slider-items-products">
                 <div id="category-slider" class="product-flexslider hidden-buttons">
                   <div class="slider-items slider-width-col4">
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/piddie/slide6.jpg" alt="banner"></a>
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/piddie/slide5.jpg"  alt="banner"></a>
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/piddie/slide8.jpg"  alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/slide/piddiesmart1.jpg" alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/slide/piddiesmart2.jpg"  alt="banner"></a>
+           
             </div></div></div>
             
             </div>

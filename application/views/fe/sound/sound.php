@@ -23,9 +23,9 @@
              <div class="slider-items-products">
                 <div id="category-slider" class="product-flexslider hidden-buttons">
                   <div class="slider-items slider-width-col4">
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/8.jpg" alt="banner"></a>
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/7.jpg"  alt="banner"></a>
-            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/5.jpg"  alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/slide/sound.jpg" alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/slide/sound2.jpg" alt="banner"></a>
+            
             </div></div></div>
             
             </div>

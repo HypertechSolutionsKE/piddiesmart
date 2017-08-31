@@ -53,5 +53,7 @@ $route['default_controller'] = 'home';
 $route['backhome'] = 'home/index';
 $route['quickview'] = 'home/quickview';
 $route['popup'] = 'home/popup';
+$route['about'] = 'home/about';
+$route['contact'] = 'home/contact';
 $route['404_override'] ='home/error';
 $route['translate_uri_dashes'] = FALSE;

@@ -1,4 +1,4 @@
-
+<!-- Footer -->
   <footer> 
     
 
@@ -52,10 +52,10 @@
           <div class="col-sm-6 col-xs-12">
             <div class="payment">
               <ul>
-                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/clothingline/images/visa.png"></a></li>
-                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/clothingline/images/paypal.png"></a></li>
-                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/clothingline/images/discover.png"></a></li>
-                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/clothingline/images/master-card.png"></a></li>
+                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/images/visa.png"></a></li>
+                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/images/paypal.png"></a></li>
+                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/images/discover.png"></a></li>
+                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/images/master-card.png"></a></li>
               </ul>
             </div>
           </div>
@@ -69,151 +69,36 @@
   
 </div>
 
-
-   
 <!-- jquery js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> 
 
-<!-- bootstrap js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/bootstrap.min.js"></script> 
-
-<!-- Slider Js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/revolution-slider.js"></script> 
+<!-- Latest compiled and minified JavaScript --> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
 
 <!-- owl.carousel.min js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/owl.carousel.min.js"></script> 
-
-<!-- bxslider js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery.bxslider.js"></script> 
-
-<!-- megamenu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/megamenu.js"></script> 
-
-<!-- jquery.mobile-menu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/mobile-menu.js"></script> 
-
-<!--jquery-ui.min js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery-ui.js"></script> 
-
-<!-- main js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/main.js"></script> 
-
-<!-- countdown js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/countdown.js"></script> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery.nivo.slider.js"></script> 
-
-
-<!-- bootstrap js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script> 
 
 <!-- Mean Menu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery.meanmenu.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery.meanmenu.min.js"></script> 
+
+<!--jquery-ui.min js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery-ui.js"></script> 
+
+<!-- countdown js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/countdown.js"></script> 
 
 <!-- wow JS --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/wow.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/wow.min.js"></script> 
 
-<!-- flexslider js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothingline/js/jquery.flexslider.js"></script>
+<!-- mobile menu JS --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jtv-mobile-menu.js"></script> 
 
-<!-- Revolution slider --> 
-<script type="text/javascript">
-      var setREVStartSize=function(){};
-            
-        
-      setREVStartSize();
-      function revslider_showDoubleJqueryError(sliderID) {}
-      var tpj=jQuery;
-      tpj.noConflict();
-      var revapi6;
-      tpj(document).ready(function() {
-        if(tpj("#rev_slider_6_1").revolution == undefined){
-          revslider_showDoubleJqueryError("#rev_slider_6_1");
-        }else{
-          revapi6 = tpj("#rev_slider_6_1").show().revolution({
-            sliderType:"standard",
-            sliderLayout:"auto",
-            dottedOverlay:"none",
-            delay:6000,
-            navigation: {
-              keyboardNavigation:"off",
-              keyboard_direction: "horizontal",
-              mouseScrollNavigation:"off",
-              onHoverStop:"off",
-              touch:{
-                touchenabled:"on",
-                swipe_threshold: 0.7,
-                swipe_min_touches: 1,
-                swipe_direction: "horizontal",
-                drag_block_vertical: false
-              }
-              ,
-              arrows: {
-                style:"hades",
-                enable:true,
-                hide_onmobile:false,
-                hide_onleave:true,
-                hide_delay:200,
-                hide_delay_mobile:1200,
-                tmp:'<div class="tp-arr-allwrapper">  <div class="tp-arr-imgholder"></div></div>',
-                left: {
-                  h_align:"left",
-                  v_align:"center",
-                  h_offset:20,
-                  v_offset:0
-                },
-                right: {
-                  h_align:"right",
-                  v_align:"center",
-                  h_offset:20,
-                  v_offset:0
-                }
-              }
-              ,
-              bullets: {
-                enable:true,
-                hide_onmobile:false,
-                style:"hades",
-                hide_onleave:true,
-                hide_delay:200,
-                hide_delay_mobile:1200,
-                direction:"horizontal",
-                h_align:"center",
-                v_align:"bottom",
-                h_offset:0,
-                v_offset:20,
-                space:5,
-                tmp:'<span class="tp-bullet-image"></span>'
-              }
-            },
-            gridwidth:1920,
-            gridheight:750,
-            lazyType:"none",
-            shadow:0,
-            spinner:"spinner0",
-            stopLoop:"off",
-            stopAfterLoops:-1,
-            stopAtSlide:-1,
-            shuffle:"off",
-            autoHeight:"on",
-            disableProgressBar:"on",
-            hideThumbsOnMobile:"off",
-            hideSliderAtLimit:0,
-            hideCaptionAtLimit:0,
-            hideAllCaptionAtLilmit:0,
-            startWithSlide:0,
-            debugMode:false,
-            fallbacks: {
-              simplifyAll:"off",
-              nextSlideOnWindowFocus:"off",
-              disableFocusListener:false,
-            }
-          });
-        }
-      }); /*ready*/
-    </script> 
+<!-- main js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/main.js"></script> 
+
+<!-- nivo slider js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery.nivo.slider.js"></script> 
 
 
 </body>
-
-<!-- Mirrored from htmlsmart.justthemevalley.com/version2/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Aug 2017 10:29:14 GMT -->
 </html>

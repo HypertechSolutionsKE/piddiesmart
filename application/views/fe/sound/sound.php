@@ -1,737 +1,773 @@
-<div class="main-slideshow">
-    <div class="home-slider">
-      <div class="wpb_wrapper">
-        <div class="wpb_revslider_element wpb_content_element">
-          <div id="rev_slider_6_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#eee;padding:0px;margin-top:0px;margin-bottom:0px;"> 
-            <!-- START REVOLUTION SLIDER 5.0.5 auto mode -->
-            <div id="rev_slider_6_1" class="rev_slider fullwidthabanner tp-overflow-hidden" style="display:none;" data-version="5.0.5">
-              <ul>
-                
-                <!-- SLIDE  -->
-                <li data-index="rs-17" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600" data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
-                  <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/sound/5.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
-                  <!-- LAYERS --> 
-                  <!-- LAYER NR. 1 -->
-                  <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="-90" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-size: 15px; color: #333; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> DESIGN NEW STYLE </p> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 3 -->
-                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="-40" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <h1 class="text-center" style="font-size: 65px; color: #1267b3; font-weight: bold; text-transform: uppercase;">New collection</h1> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 6 -->
-                  <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="20" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #666;"> Donec vitae hendrerit arcu, sit amet faucibus nisl.<br>
-                      Cras pretium arcu ex.</p> -->
-                  </div>
-                  <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="200" data-y="center" data-voffset="90" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 12px;" target="_blank">View more</a> <a href="#" class="btn outline btn-color" style="font-size: 12px; margin-left: 15px;" target="_blank">All Shop</a> </div>
-                </li>
-                <!-- SLIDE  -->
-                <li data-index="rs-14" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-7" data-description=""> 
-                  <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/sound/7.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
-                  <!-- LAYER NR. 1 -->
-                  <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Lookbook 2016 </p> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 3 -->
-                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <h1 class="text-center" style="font-size: 55px; color: #fff; font-weight: bold; text-transform: uppercase;">Hot</h1> -->
-                  </div>
-                  <!-- LAYER NR. 4 -->
-                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="-30" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <h2 class="text-center" style="font-size: 38px; color: #fff; font-weight: bold; text-transform: uppercase;">Collection</h2> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 6 -->
-                  <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="20" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;">Public Address Systems, consectetuer adipiscing elit,<br>
-                      sed diam nonummy nibh euismod tincidunt ut laoree.</p> -->
-                  </div>
-                  <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="-200" data-y="center" data-voffset="70" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" target="_blank">View Collection</a> <a href="#" class="btn outline btn-color" style="padding: 6px 20px; margin-left: 15px;" target="_blank">Buy now</a> </div>
-                </li>
-                
-                <!-- SLIDE  -->
-                <li data-index="rs-15" data-transition="3dcurtain-horizontal,3dcurtain-vertical,cube,cube-horizontal" data-slotamount="7,7,7,7"  data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="600,600,600,600"  data-rotate="0,0,0,0"  data-saveperformance="off"  data-title="Slide-8" data-description=""> 
-                  <!-- MAIN IMAGE --> 
-                  <img src="<?php echo base_url();?>assets/images/sound/8.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina> 
-                  <!-- LAYERS --> 
-                  
-                  <!-- LAYERS --> 
-                  <!-- LAYER NR. 1 -->
-                  <div class="tp-caption black lft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-130" data-speed="300" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <p class="text-center" style="font-size: 15px; color: #fff; font-weight: bold; letter-spacing: 1px; text-transform: uppercase;"> Luxury Underwear </p> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 3 -->
-                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-80" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <h1 class="text-center" style="font-size: 65px; color: #fff; font-weight: bold; text-transform: uppercase;"> Season sale </h1> -->
-                  </div>
-                  <!-- LAYER NR. 4 -->
-                  <div class="tp-caption black skewfromrightshort tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="-20" data-speed="300" data-start="1100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
-                    <!-- <h2 class="text-center" style="font-size: 50px; color: #fff; font-weight: bold; text-transform: uppercase;">75% off</h2> -->
-                  </div>
-                  
-                  <!-- LAYER NR. 6 -->
-                  <div class="tp-caption black skewfromleft tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50" data-speed="300" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                   <!--  <p class="text-center" style="font-style: italic; font-size: 15px; color: #fff;"> Sed lacinia urna a tincidunt mattis tortor neque<br>
-                      adipiscing diam cursus </p> -->
-                  </div>
-                  <!-- LAYER NR. 7 -->
-                  <div class="tp-caption black skewfromright tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="130" data-speed="300" data-start="1600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"> <a href="#" class="btn outline btn-white" style="font-size: 13px; border-width: 1px; border-color: #fff; padding: 6px 40px;" target="_blank">See More</a> <a href="#" class="btn outline btn-color" style="font-size: 13px; margin-left: 15px;" target="_blank">View more</a> </div>
-                </li>
-                <!-- SLIDE  -->
-              </ul>
-              <div class="tp-bannertimer" style="visibility: hidden !important;"></div>
-            </div>
-          </div>
-          <!-- END REVOLUTION SLIDER --></div>
-      </div>
-    </div>
-    <!-- .fullwidth-slider --> 
-  </div>
-    <!-- .three quick buttons --> 
-  <div class="container">
-    <div class="row">
-      <div class="jtv-banner-block">
-        <div class="jtv-subbanner1 col-sm-4"><a href="home"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/version3/images/banner3.jpg"></a>
-          <div class="text-block">
-            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Piddiesmart</a></div> -->
-           <!--  <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Depth in detail </a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop for women</a></div> -->
-          </div>
-        </div>
-        
-        <div class="jtv-subbanner1 col-sm-4"><a href="cosmetic"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
-          <div class="text-block">
-            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
-            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Love These Styles</a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div> -->
-          </div>
-        </div>
-        <div class="jtv-subbanner1 col-sm-4"><a href="sound"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
-          <div class="text-block">
-            <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
-            <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>
-            <div class="text3 wow animated fadeInUp animated"><a href="index.html#">Shop Now</a></div> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
-
-  <div class="container">
-    <div class="special-products">
-      <div class="page-header">
-        <h2>Piddiesmart Clothings</h2>
-      </div>
-      <div class="special-products-pro">
-        <div class="slider-items-products">
-          <div id="special-products-slider" class="product-flexslider hidden-buttons">
-            <div class="slider-items slider-width-col4">
-              <div class="product-item">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="quickview">
-                    <figure> <img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="popup" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                  <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h3><a title="#" href="single_product.html">Red Sweatpant Suit </a></h3>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                          <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> 
-                          <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
-                        </div>
-                        <div class="pro-action">
-
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="product-item">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
-                    <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""> <img class="hover-img" ssrc="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
-                  </div>
-                  <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="#">White Sweatpant Suit </a></h4>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                          <div class="price-box">
-                            <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 4800.00 </span> </p>
-                            <p class="old-price"> <span class="price-label">Regular Price:</span></p>
-                          </div>
-                          <div class="pro-action">
-                    <button type="button" class="add-to-cart-mt" data-toggle="modal" data-target="#popup"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-
-              <div class="product-item">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
-                    <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                  </div>
-                  <div class="item-info" >
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="#">Hoodies </a></h4>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                          <div class="price-box">
-                            <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 4800.00 </span> </p>
-                            <p class="old-price"> <span class="price-label">Regular Price:</span></p>
-                          </div>
-                        </div>
-                        <div class="pro-action">
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="product-item">
-                <div class="item-inner">
-                  <div class="icon-sale-label sale-left">Sale</div>
-                  <div class="icon-new-label new-right">New</div>
-                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
-                    <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
-                  </div>
-                  <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="#">Blue Sweatpant Suit </a></h4>
-                      </div>
-                      <div class="item-content">
-                        <div class="item-price">
-                          <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> </p></div>
-                        </div>
-                        <div class="pro-action">
-
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="product-item">
-                <div class="item-inner">
-                  <div class="icon-sale-label sale-left">Sale</div>
-                  <div class="icon-new-label new-right">New</div>
-                  <div class="product-thumb has-hover-img"> <a title="#" href="#">
-                    <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/sound/5.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/5.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="#" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
-                  </div>
-                  <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="#">Blue Sweatpant Suit </a></h4>
-                      </div>
-                      <div class="item-content">
-                        <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
-                        <div class="item-price">
-                          <div class="price-box"> <span class="regular-price"> <span class="price">Kes 4800.00</span> </span> <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5500.00 </span> </p></div>
-                        </div>
-                        <div class="pro-action">
-
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            <div class="product-item">
-                <div class="item-inner">
-                  <div class="product-thumb has-hover-img">
-                    <div class="icon-new-label new-left">New</div>
-                    <a title="Ipsums Dolors Untra" href="#">
-                    <figure> <img class="first-img" src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""></figure>
-                    </a>
-                    <div class="pr-info-area animated animate2"><a href="#" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="#" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
-                  </div>
-                  <div class="item-info">
-                    <div class="info-inner">
-                      <div class="item-title">
-                        <h4><a title="Ipsums Dolors Untra" href="#">Ipsums Dolors Untra </a></h4>
-                      </div>
-                      <div class="item-content">
-                        <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
-                        <div class="item-price">
-                          <div class="price-box">
-                            <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 4800.00 </span> </p>
-                            <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5500.00 </span> </p>
-                          </div>
-                        </div>
-                        <div class="pro-action">
-
-                          <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <!-- Breadcrumbs -->
   
-  <!-- end main container -->
-  <div class="container">
-    <div class="block-static2-inner">
-      <div class="img"><a href="#"><img class="alignnone size-full"></a></div>
-      <div class="content">
-        <h3>big offer 2017</h3>
-        <h2>15% off</h2>
-        <p>Make your order now with the best offers below... </p>
-      </div>
-      <div class="trending">
-        <div class="trending-inner">
-          <h3>Piddiesmart</h3>
-          <h2>BIG SALE</h2>
-          <p>Place your order now </p>
-        </div>
+  <div class="breadcrumbs">
+    <div class="container">
+      <div class="row">
       </div>
     </div>
   </div>
-  <!-- main container -->
-  <div class="main-container col1-layout">
+  <!-- Breadcrumbs End --> 
+  <!-- Main Container -->
+  <div class="main-container col2-left-layout">
     <div class="container">
-      <div class="row"> 
-        
-        <!-- Home Tabs  -->
-        <div class="col-md-9">
-          <div class="home-tab">
-            <ul class="nav home-nav-tabs home-product-tabs">
-              <li class="active"><a href="index.html#featured" data-toggle="tab" aria-expanded="false">Piddiesmart Cosmetics</a></li>
-              <li> <a href="index.html#top-sellers" data-toggle="tab" aria-expanded="false"></a> </li>
+    
+      <div class="row">
+        <div class="col-main col-sm-9 col-xs-12 col-sm-push-3">
+          
+          <div class="shop-inner">
+            <div class="page-title">
+              <h2>Piddiesmart Clothingline</h2>
+            </div>
+            <div class="category-description">
+             <div class="slider-items-products">
+                <div id="category-slider" class="product-flexslider hidden-buttons">
+                  <div class="slider-items slider-width-col4">
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/8.jpg" alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/7.jpg"  alt="banner"></a>
+            <a href="shop_grid.html#"><img src="<?php echo base_url();?>assets/images/sound/5.jpg"  alt="banner"></a>
+            </div></div></div>
+            
+            </div>
+            <div class="toolbar">
+              <div class="view-mode">
+                <ul>
+                  <li class="active"> <a href="shop_grid.html"> <i class="fa fa-th-large"></i> </a> </li>
+                  <li> <a href="shop_list.html"> <i class="fa fa-th-list"></i> </a> </li>
+                </ul>
+              </div>
+              <div class="sorter">
+                <div class="short-by">
+                  <label>Sort By:</label>
+                  <select>
+                    <option selected="selected">Position</option>
+                    <option>Name</option>
+                    <option>Price</option>
+                    <option>Size</option>
+                  </select>
+                </div>
+                <div class="short-by page">
+                  <label>Show:</label>
+                  <select>
+                    <option selected="selected">18</option>
+                    <option>20</option>
+                    <option>25</option>
+                    <option>30</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="product-grid-area">
+              <ul class="products-grid">
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/5.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- .a2 --> 
+                
+                <!-- b2 -->
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- .b2 --> 
+                
+                <!-- c2 -->
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/7.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- .a1 --> 
+                
+                <!-- b1 -->
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <!-- .b1 --> 
+                
+                <!-- c1 -->
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                 <li class="item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                  <div class="product-item">
+                    <div class="item-inner">
+                      <div class="product-thumbnail">
+                        
+                        <a href="single_product.html" class="product-item-photo"> <img class="product-image-photo" src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""></a> </div>
+                      <div class="pro-box-info">
+                        <div class="item-info">
+                          <div class="info-inner">
+                            <div class="item-title"> <h4><a title="Ipsums Dolors Untra" href="single_product.html">Red pants </a></h4> </div>
+                            <div class="item-content">
+                            
+                              <div class="item-price">
+                                <div class="price-box">
+                                  
+                                  <p class="regular-price"> <span class="price"> KEsh 500.00 </span> </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <div class="box-hover">
+                          <div class="product-item-actions">
+                            <div class="pro-action">
+                         <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+               
+              </ul>
+            </div>
+            <div class="pagination-area ">
+              <ul>
+                <li><a class="active" href="shop_grid.html#">1</a></li>
+                <li><a href="shop_grid.html#">2</a></li>
+                <li><a href="shop_grid.html#">3</a></li>
+                <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <aside class="sidebar col-sm-3 col-xs-12 col-sm-pull-9">
+          <div class="block category-sidebar">
+            <div class="sidebar-title">
+              <h3>Categories</h3>
+            </div>
+            <ul class="product-categories">
+              <li class="cat-item current-cat cat-parent"><a href= "shop_grid.html">Women</a>
+                <ul class="children">
+                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Accessories</a>
+                    <ul class="children">
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a></li>
+                      <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
+                        <ul style="display: none;" class="children">
+                          <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
+                          <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Handbags</a>
+                    <ul class="children">
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; backpack</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Beaded Handbags</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Fabric Handbags</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Sling bag</a></li>
+                    </ul>
+                  </li>
+                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Jewellery</a> </li>
+                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Swimwear</a> </li>
+                </ul>
+              </li>
+              <li class="cat-item cat-parent"><a href="shop_grid.html">Men</a>
+                <ul class="children">
+                  <li class="cat-item cat-parent"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Dresses</a>
+                    <ul class="children">
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Casual</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Designer</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Evening</a></li>
+                      <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Hoodies</a></li>
+                    </ul>
+                  </li>
+                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Jackets</a> </li>
+                  <li class="cat-item"><a href="shop_grid.html"><i class="fa fa-angle-right"></i>&nbsp; Shoes</a> </li>
+                </ul>
+              </li>
+              <li class="cat-item"><a href="shop_grid.html">Electronics</a></li>
+              <li class="cat-item"><a href="shop_grid.html">Furniture</a></li>
+              <li class="cat-item"><a href="shop_grid.html">KItchen</a></li>
             </ul>
-            <div id="productTabContent" class="tab-content">
-              <div class="tab-pane active in" id="featured">
-                <div class="featured-pro">
-                  <div class="slider-items-products">
-                    <div id="featured-slider" class="product-flexslider hidden-buttons">
-                      <div class="slider-items slider-width-col4">
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img">
-                              <div class="icon-sale-label sale-left">Sale</div>
-                              <div class="icon-new-label new-right"><span>New</span></div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""></a></figure>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">$125.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/7.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/7.jpg" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit  </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box">
-                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
-                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000 </span> </p>
-                                    </div>
-                                    <div class="pro-action">
-                                      <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/6.jpg" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a>  </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box">
-                                      <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
-                                      <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 3000.00 </span> </p>
-                                    </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="icon-sale-label sale-left">Sale</div>
-                            <div class="icon-new-label new-right">New</div>
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/34.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/35.jpg" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a></div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html"> Sweatpant Suit  </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/40.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/42.jpg" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 2500.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+          </div>
+          <div class="block shop-by-side">
+            <div class="sidebar-bar-title">
+              <h3>Shop By</h3>
+            </div>
+            <div class="block-content">
+              <div class="layered-Category">
+                <h2 class="saider-bar-title">Categories</h2>
+                <div class="layered-content">
+                  <ul class="check-box-list">
+                    <li>
+                      <input type="checkbox" id="jtv1" name="jtvc">
+                      <label for="jtv1"> <span class="button"></span> Camera & Photo<span class="count">(12)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv2" name="jtvc">
+                      <label for="jtv2"> <span class="button"></span> Computers<span class="count">(18)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv3" name="jtvc">
+                      <label for="jtv3"> <span class="button"></span> Apple Store<span class="count">(15)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv4" name="jtvc">
+                      <label for="jtv4"> <span class="button"></span> Car Electronic<span class="count">(03)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv5" name="jtvc">
+                      <label for="jtv5"> <span class="button"></span> Accessories<span class="count">(04)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv7" name="jtvc">
+                      <label for="jtv7"> <span class="button"></span> Game & Video<span class="count">(07)</span> </label>
+                    </li>
+                    <li>
+                      <input type="checkbox" id="jtv8" name="jtvc">
+                      <label for="jtv8"> <span class="button"></span> Best selling<span class="count">(05)</span> </label>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="manufacturer-area">
+                <h2 class="saider-bar-title">Manufacturer</h2>
+                <div class="saide-bar-menu">
+                  <ul>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Aliquam</a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Duis tempus id </a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Leo quis molestie. </a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Suspendisse </a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Nunc gravida </a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="color-area">
+                <h2 class="saider-bar-title">Color</h2>
+                <div class="color">
+                  <ul>
+                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="shop_grid.html#"></a></li>
+                    <li><a href="shop_grid.html#"></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="size-area">
+                <h2 class="saider-bar-title">Size</h2>
+                <div class="size">
+                  <ul>
+                    <li><a href="shop_grid.html#">S</a></li>
+                    <li><a href="shop_grid.html#">L</a></li>
+                    <li><a href="shop_grid.html#">M</a></li>
+                    <li><a href="shop_grid.html#">XL</a></li>
+                    <li><a href="shop_grid.html#">XXL</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+          <div class="block sidebar-cart">
+            <div class="sidebar-bar-title">
+              <h3>My Orders</h3>
+            </div>
+            <div class="block-content">
+              <p class="amount">There are <a href="shopping_cart.html">2 items</a> in your order List.</p>
+              <ul>
+                <li class="item"> <a href="shopping_cart.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt="Sample Product "></a>
+                  <div class="product-details">
+                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
+                    <p class="product-name"> <a href="shopping_cart.html">Lorem ipsum dolor sit amet Consectetur</a> </p>
+                    <strong>1</strong> x <span class="price">$19.99</span> </div>
+                </li>
+                <li class="item last"> <a href="shop_grid.html#" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/sound/2.jpg" alt="Sample Product"></a>
+                  <div class="product-details">
+                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
+                    <p class="product-name"> <a href="shopping_cart.html">Consectetur utes anet adipisicing elit</a> </p>
+                    <strong>1</strong> x <span class="price">$8.00</span> 
+                    <!--access clearfix--> 
+                  </div>
+                </li>
+              </ul>
+              <div class="summary">
+                <p class="subtotal"> <span class="label">Cart Subtotal:</span> <span class="price">$27.99</span> </p>
+              </div>
+              <div class="cart-checkout">
+                <button class="button button-checkout" title="Submit" type="submit"><i class="fa fa-check"></i> <span>Checkout</span></button>
+              </div>
+            </div>
+          </div>
+         
+          <div class="single-img-add sidebar-add-slider ">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
+              
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                <div class="item active"> <img src="<?php echo base_url();?>assets/images/sound/4.jpg" alt="slide1">
+                  <div class="carousel-caption">
+                    <h3><a href="single_product.html" title=" Sample Product">Sale Up to 50% off</a></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <a href="shop_grid.html#" class="info">shopping Now</a> </div>
+                </div>
+                <div class="item"> <img src="<?php echo base_url();?>assets/images/sound/5.jpg" alt="slide2">
+                  <div class="carousel-caption">
+                    <h3><a href="single_product.html" title=" Sample Product">Smartwatch Collection</a></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <a href="shop_grid.html#" class="info">All Collection</a> </div>
+                </div>
+                <div class="item"> <img src="<?php echo base_url();?>assets/images/sound/6.jpg" alt="slide3">
+                  <div class="carousel-caption">
+                    <h3><a href="single_product.html" title=" Sample Product">Summer Sale</a></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                   </div>
                 </div>
               </div>
-              <div class="tab-pane fade" id="top-sellers">
-                <div class="top-sellers-pro">
-                  <div class="slider-items-products">
-                    <div id="top-sellers-slider" class="product-flexslider hidden-buttons">
-                      <div class="slider-items slider-width-col4">
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img">
-                              <div class="icon-sale-label sale-left">Sale</div>
-                              <div class="icon-new-label new-right">New</div>
-                              <figure> <a href="single_product.html"><img src="<?php echo base_url();?>assets/images/sound/38.jpg" alt=""></a> <a class="hover-img" href="#"><img src="<?php echo base_url();?>assets/images/sound/39.jpg" alt=""></a></figure>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kes 500.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                       
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="icon-sale-label sale-left">Sale</div>
-                            <div class="icon-new-label new-right">New</div>
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/39.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/40" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  <div class="rating"> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kesh 5000.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        
-                        <div class="product-item">
-                          <div class="item-inner">
-                            <div class="product-thumb has-hover-img"> <a title="Ipsums Dolors Untra" href="single_product.html">
-                              <figure> <img src="<?php echo base_url();?>assets/images/sound/41.jpg" alt=""> <img class="hover-img" src="<?php echo base_url();?>assets/images/sound/42.jpg" alt=""></figure>
-                              </a>
-                              <div class="pr-info-area animated animate2"><a href="quick_view.html" class="quick-view"><i class="fa fa-shopping-bag"><span>Quick view</span></i></a> <a href="wishlist.html" class="wishlist"><i class="fa fa-heart"><span>Wishlist</span></i></a> <a href="compare.html" class="compare"><i class="fa fa-exchange"><span>Compare</span></i></a> </div>
-                            </div>
-                            <div class="item-info">
-                              <div class="info-inner">
-                                <div class="item-title">
-                                  <h4><a title="Ipsums Dolors Untra" href="single_product.html">Blue Sweatpant Suit  </a></h4>
-                                </div>
-                                <div class="item-content">
-                                  <div class="rating"> <i class="fa fa-star-o"></i></div>
-                                  <div class="item-price">
-                                    <div class="price-box"> <span class="regular-price"> <span class="price">Kesh 5000.00</span> </span> </div>
-                                  </div>
-                                  <div class="pro-action">
-                                    <button type="button" class="add-to-cart-mt"> <i class="fa fa-shopping-bag"></i><span> Order Now</span> </button>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+              
+              <!-- Controls --> 
+              <a class="left carousel-control" href="shop_grid.html#carousel-example-generic" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="shop_grid.html#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+          </div>
+          <div class="block special-product">
+            <div class="sidebar-bar-title">
+              <h3>Special Products</h3>
+            </div>
+            <div class="block-content">
+              <ul>
+                <li class="item">
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/sound/8.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-right">
+                    <p class="product-name"> <a href="single_product.html">Product Title Here Consectetur</a> </p>
+                    <span class="price">$19.99</span>
+                    <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
-                </div>
-              </div>
-            </div>
+                </li>
+                <li class="item">
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/sound/3.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-right">
+                    <p class="product-name"> <a href="single_product.html">Consectetur utes anet adipisicing elit</a> </p>
+                    <span class="price">$89.99</span>
+                    <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
+                  </div>
+                </li>
+                <li class="item">
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/sound/6.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-right">
+                    <p class="product-name"> <a href="single_product.html">Product Title Here Consectetur</a> </p>
+                    <span class="price">$19.99</span>
+                    <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
+                  </div>
+                </li>
+              </ul>
+             
           </div>
-        </div>
-
-
-
-        <div class="col-md-3 col-sm-4 col-xs-12">
-          <div class="jtv-banner-top">
-            <div class="jtv-banner-box">
-              <div class=""> <a class="jtv-banner-inner-text" href="#">
-                <div class="jtv-text" style="background-color: yellow; opacity: 0.9; padding:20px">
-                  <p class="animated animate1"><span>sale up to</span><span>25% off</span></p>
-                  <p class="animated animate2">On selected products</p>
-                </div>
-
-                <div class="jtv-banner-box-image"> <img src="<?php echo base_url();?>assets/images/sound/001.jpg" alt="Catbox-Images"> </div>
-                </a> </div>
-            </div>
-            <!-- End jtv-banner-box --> 
-          </div>
-        </div>
+          <hr/>
+        </aside>
       </div>
     </div>
   </div>
+  <!-- Main Container End --> 
 
-  <!-- category area start -->
-  <div class="jtv-category-area">
-    <div class="container">
-      <div class="row"> <!-- banner -->
-        <div class="col-md-4 col-sm-12 col-xs-12">
-          <div class="jtv-banner">
-            <div class="upper">
-              <div class="jtv-subbanner1"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/images/sound/5.jpg"></a>
-                <div class="text-block">
-                  <div class="text1"><a href="index.html#"> Microphones</a></div>
-                  <div class="text2"><a href="index.html#">special offer</a></div>
-                  <div class="text3"><a href="index.html#">35% off</a></div>
-                </div>
-              </div>
-              <div class="jtv-subbanner2"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/images/sound/7.jpg"></a>
-                <div class="text-block">
-                  <div class="text1"><a href="index.html#">Speakers</a></div>
-                  <div class="text2"><a href="index.html#">Best offer</a></div>
-                  <div class="text3"><a href="index.html#">25% off</a></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-8 col-sm-12 col-xs-12">
-          <div class="jtv-single-cat">
-            <div class="page-header">
-              <h2>Piddiesmart Sound</h2>
-            </div>
-            <div class="jtv-product">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/5.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/6" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 6000.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/7.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/8.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/1.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/2.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box">
-                  <p class="special-price"> <span class="price-label">Special Price</span> <span class="price"> Kes 5000.00 </span> </p>
-                  <p class="old-price"> <span class="price-label">Regular Price:</span> <span class="price"> Kes 5000.00 </span> </p>
-                </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-            <div class="jtv-product jtv-cat-margin">
-              <div class="product-img"> <a href="single_product.html"> <img src="<?php echo base_url();?>assets/images/sound/3.jpg" alt=""> <img class="secondary-img" src="<?php echo base_url();?>assets/images/sound/4.jpg" alt=""> </a> </div>
-              <div class="jtv-product-content">
-                <h3><a href="single_product.html">Public Address Systems</a></h3>
-                <div class="price-box"> <span class="regular-price"> <span class="price">Kes 5000.00</span> </span> </div>
-                <div class="jtv-product-action">
-                  <div class="jtv-extra-link">
-                    <div class="button-cart">
-                      <button><i class="fa fa-shopping-bag"></i></button>
-                    </div>
-                    <a href="index.html#" data-toggle="modal" data-target="#productModal"><i class="fa fa-search"></i></a> <a href="index.html#"><i class="fa fa-heart"></i></a> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
+  
   

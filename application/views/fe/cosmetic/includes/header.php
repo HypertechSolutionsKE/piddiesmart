@@ -37,12 +37,12 @@
     </form>
   </div>
   <ul>
-    <li><a href="home" class="home1">Home</a></li>
+    <li><a href="index.html" class="home1">Home</a></li>
     <li><a href="clothingline" class="home1">Clothingline</a></li>
-    <li><a href="cosmetic">Cosmetic</a></li>
-    <li><a href="sound">Sound</a></li>
-    <li><a href="about">About us</a></li>
-    <li><a href="contact">Contact Us</a></li>
+    <li><a href="shop_grid.html">Cosmetic</a></li>
+    <li><a href="contact_us.html">Sound</a></li>
+    <li><a href="about_us.html">About us</a></li>
+    <li><a href="blog.html">Contact Us</a></li>
   </ul>
 </div>
 <!-- end mobile menu -->
@@ -51,7 +51,7 @@
   <!-- Header -->
   <header>
     <div class="header-container">
-      <div class="header-top" style="background-color: #9d27b1">
+      <div class="header-top" style="background-color: #2946bf">
         <div class="container">
           <div class="row" >
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
@@ -128,10 +128,9 @@
       <div class="row">
         <div class="col-md-3 col-sm-4 col-xs-3">
           <div class="mm-toggle-wrap">
-            <div class="mm-toggle"> <i class="fa fa-align-justify"></i> </div>
+            <div class="mm-toggle"><i class="fa fa-align-justify"></i></div>
         </div>
       </div>
     </div>
   </nav>
   <!-- end nav --> 
-

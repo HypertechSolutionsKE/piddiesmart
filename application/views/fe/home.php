@@ -100,7 +100,7 @@
   <div class="container">
     <div class="row">
       <div class="jtv-banner-block">
-        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/version3/images/banner3.jpg"></a>
+        <div class="jtv-subbanner1 col-sm-4"><a href="clothingline"><img class="img-respo" alt="jtv-subbanner1" src="<?php echo base_url();?>assets/version3/images/banner3.jpg"></a>
           <div class="text-block">
             <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Piddiesmart</a></div> -->
            <!--  <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Depth in detail </a></div>
@@ -108,14 +108,14 @@
           </div>
         </div>
         
-        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
+        <div class="jtv-subbanner1 col-sm-4"><a href="cosmetic"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner5.jpg"></a>
           <div class="text-block">
             <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">New Arrivals</a></div>
             <div class="text2 wow animated fadeInUp animated"><a href="index.html#">Love These Styles</a></div>
             <div class="text3 wow animated fadeInUp animated"><a href="index.html#">shop for girls</a></div> -->
           </div>
         </div>
-        <div class="jtv-subbanner1 col-sm-4"><a href="index.html#"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
+        <div class="jtv-subbanner1 col-sm-4"><a href="sound"><img class="img-respo" alt="jtv-subbanner2" src="<?php echo base_url();?>assets/version3/images/banner4.jpg"></a>
           <div class="text-block">
             <!-- <div class="text1 wow animated fadeInUp animated"><a href="index.html#">Smart</a></div>
             <div class="text2 wow animated fadeInUp animated"><a href="index.html#">on brand-new models </a></div>

@@ -594,31 +594,31 @@
                   <ul class="check-box-list">
                     <li>
                       <input type="checkbox" id="jtv1" name="jtvc">
-                      <label for="jtv1"> <span class="button"></span> Camera & Photo<span class="count">(12)</span> </label>
+                      <label for="jtv1"> <span class="button"></span> A Casual Maxi<span class="count">(12)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv2" name="jtvc">
-                      <label for="jtv2"> <span class="button"></span> Computers<span class="count">(18)</span> </label>
+                      <label for="jtv2"> <span class="button"></span> A Slip Dress<span class="count">(18)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv3" name="jtvc">
-                      <label for="jtv3"> <span class="button"></span> Apple Store<span class="count">(15)</span> </label>
+                      <label for="jtv3"> <span class="button"></span> A fabulous gown <span class="count">(15)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv4" name="jtvc">
-                      <label for="jtv4"> <span class="button"></span> Car Electronic<span class="count">(03)</span> </label>
+                      <label for="jtv4"> <span class="button"></span> A Sheath Dress<span class="count">(03)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv5" name="jtvc">
-                      <label for="jtv5"> <span class="button"></span> Accessories<span class="count">(04)</span> </label>
+                      <label for="jtv5"> <span class="button"></span> A Flared Dress<span class="count">(04)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv7" name="jtvc">
-                      <label for="jtv7"> <span class="button"></span> Game & Video<span class="count">(07)</span> </label>
+                      <label for="jtv7"> <span class="button"></span>A Lace Dress<span class="count">(07)</span> </label>
                     </li>
                     <li>
                       <input type="checkbox" id="jtv8" name="jtvc">
-                      <label for="jtv8"> <span class="button"></span> Best selling<span class="count">(05)</span> </label>
+                      <label for="jtv8"> <span class="button"></span> Party Dress<span class="count">(05)</span> </label>
                     </li>
                   </ul>
                 </div>
@@ -627,72 +627,17 @@
                 <h2 class="saider-bar-title">Manufacturer</h2>
                 <div class="saide-bar-menu">
                   <ul>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Aliquam</a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Duis tempus id </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Leo quis molestie. </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Suspendisse </a></li>
-                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Nunc gravida </a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> VG Industrial</a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Zumiez</a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Asos </a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Nodstrom</a></li>
+                    <li><a href="shop_grid.html#"><i class="fa fa-angle-right"></i> Alibaba </a></li>
                   </ul>
                 </div>
               </div>
-              <div class="color-area">
-                <h2 class="saider-bar-title">Color</h2>
-                <div class="color">
-                  <ul>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                    <li><a href="shop_grid.html#"></a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="size-area">
-                <h2 class="saider-bar-title">Size</h2>
-                <div class="size">
-                  <ul>
-                    <li><a href="shop_grid.html#">S</a></li>
-                    <li><a href="shop_grid.html#">L</a></li>
-                    <li><a href="shop_grid.html#">M</a></li>
-                    <li><a href="shop_grid.html#">XL</a></li>
-                    <li><a href="shop_grid.html#">XXL</a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
+             
         
-          <div class="block sidebar-cart">
-            <div class="sidebar-bar-title">
-              <h3>My Orders</h3>
-            </div>
-            <div class="block-content">
-              <p class="amount">There are <a href="shopping_cart.html">2 items</a> in your order List.</p>
-              <ul>
-                <li class="item"> <a href="shopping_cart.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/cosmetic/34.jpg" alt="Sample Product "></a>
-                  <div class="product-details">
-                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
-                    <p class="product-name"> <a href="shopping_cart.html">Lorem ipsum dolor sit amet Consectetur</a> </p>
-                    <strong>1</strong> x <span class="price">$19.99</span> </div>
-                </li>
-                <li class="item last"> <a href="shop_grid.html#" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/cosmetic/32.jpg" alt="Sample Product"></a>
-                  <div class="product-details">
-                    <div class="access"> <a href="shop_grid.html#" title="Remove This Item" class="remove-cart"><i class="icon-close"></i></a></div>
-                    <p class="product-name"> <a href="shopping_cart.html">Consectetur utes anet adipisicing elit</a> </p>
-                    <strong>1</strong> x <span class="price">$8.00</span> 
-                    <!--access clearfix--> 
-                  </div>
-                </li>
-              </ul>
-              <div class="summary">
-                <p class="subtotal"> <span class="label">Cart Subtotal:</span> <span class="price">$27.99</span> </p>
-              </div>
-              <div class="cart-checkout">
-                <button class="button button-checkout" title="Submit" type="submit"><i class="fa fa-check"></i> <span>Checkout</span></button>
-              </div>
-            </div>
-          </div>
+        
          
           <div class="single-img-add sidebar-add-slider ">
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel"> 
@@ -705,19 +650,19 @@
               
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
-                <div class="item active"> <img src="<?php echo base_url();?>assets/images/cosmetic/40.jpg" alt="slide1">
+                <div class="item active"> <img src="<?php echo base_url();?>assets/images/cosmetic/42.jpg" alt="slide1">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Sale Up to 50% off</a></h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <a href="shop_grid.html#" class="info">shopping Now</a> </div>
                 </div>
-                <div class="item"> <img src="<?php echo base_url();?>assets/images/cosmetic/41.jpg" alt="slide2">
+                <div class="item"> <img src="<?php echo base_url();?>assets/images/cosmetic/36.jpg" alt="slide2">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Smartwatch Collection</a></h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <a href="shop_grid.html#" class="info">All Collection</a> </div>
                 </div>
-                <div class="item"> <img src="<?php echo base_url();?>assets/images/cosmetic/40.jpg" alt="slide3">
+                <div class="item"> <img src="<?php echo base_url();?>assets/images/cosmetic/39.jpg" alt="slide3">
                   <div class="carousel-caption">
                     <h3><a href="single_product.html" title=" Sample Product">Summer Sale</a></h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -735,26 +680,26 @@
             <div class="block-content">
               <ul>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/piddie/products/img01.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/cosmetic/40.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Product Title Here Consectetur</a> </p>
-                    <span class="price">$19.99</span>
+                    <p class="product-name"> <a href="single_product.html">Red Lipstick</a> </p>
+                    <span class="price">Kes 500.00</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
                 </li>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/piddie/products/img02.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/cosmetic/35.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Consectetur utes anet adipisicing elit</a> </p>
-                    <span class="price">$89.99</span>
+                    <p class="product-name"> <a href="single_product.html">Blue Nail Polish</a> </p>
+                    <span class="price">Kes 4000.00</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
                 </li>
                 <li class="item">
-                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/piddie/products/img05.jpg" alt="Sample Product "></a></div>
+                  <div class="products-block-left"> <a href="single_product.html" title="Sample Product" class="product-image"><img src="<?php echo base_url();?>assets/images/cosmetic/37.jpg" alt="Sample Product "></a></div>
                   <div class="products-block-right">
-                    <p class="product-name"> <a href="single_product.html">Product Title Here Consectetur</a> </p>
-                    <span class="price">$19.99</span>
+                    <p class="product-name"> <a href="single_product.html">Brown Pod</a> </p>
+                    <span class="price">Kes 4000.00</span>
                     <div class="rating"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> </div>
                   </div>
                 </li>

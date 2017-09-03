@@ -26,32 +26,29 @@
         <section class="col-main col-sm-12">
           
           <div id="contact" class="page-content page-contact">
-          <div class="page-title">
+          
+           
+            <div class="row">
+              <div class="col-xs-12 col-sm-5" id="contact_form_map">
+              <div class="page-title">
             <h2>Contact Us</h2>
           </div>
-            <div id="message-box-conact">We're available for new projects</div>
-            <div class="row">
-              <div class="col-xs-12 col-sm-6" id="contact_form_map">
                 <h3 class="page-subheading">Let's get in touch</h3>
-                <p>-Piddie smart was founded in  2012 by Amon Kinyua who is the Managing Director who had passion in starting up a clothing line,Entertainment services & cosmetics.
-                -In 2015 Amon decided to actualize his dream by fully registering it in the company's Act so that business would start.
-                -Piddie Smart Holding is a company which deals with 3 business entities i.e Apparel Distribution, Cosmetics & Beauty supply and Entertainment Services.
-                -Piddie smart has a tagline which is ~bringing out the best to everyone we touch~</p>
-                <br/>
+               
                 <ul>
-                  <li>Praesent nec tincidunt turpis.</li>
-                  <li>Aliquam et nisi risus.&nbsp;Cras ut varius ante.</li>
-                  <li>Ut congue gravida dolor, vitae viverra dolor.</li>
+                  <li> For Enquiries.</li>
+                  <li> For ordering </li>
+                  <li> For ustomization</li>
                 </ul>
                 <br/>
                 <ul class="store_info">
-                  <li><i class="fa fa-home"></i>7064 Lorem Ipsum Vestibulum 666/13</li>
-                  <li><i class="fa fa-phone"></i><span>+ 012 315 678 1234</span></li>
-                  <li><i class="fa fa-fax"></i><span>+39 0035 356 765</span></li>
-                  <li><i class="fa fa-envelope"></i>Email: <span><a href="mailto:support@justtheme.com">support@justthemevalley.com</a></span></li>
+                  <li><i class="fa fa-home"></i>Moi Avenue</li>
+                  <li><i class="fa fa-phone"></i><span>+254 725 250 052</span></li>
+                  <li><i class="fa fa-fax"></i><span>+254 725 250 052</span></li>
+                  <li><i class="fa fa-envelope"></i>Email: <span><a href="mailto:amonkinyua@gmail.com">amonkinyua@gmail.com</a></span></li>
                 </ul>
               </div>
-              <div class="col-sm-6">
+              <div class="col-sm-7">
                 <h3 class="page-subheading">Make an enquiry</h3>
                 <div class="contact-form-box">
                   <div class="form-selector">
@@ -72,7 +69,7 @@
                   </div>
                   <div class="form-selector">
                     <button class="button"><i class="fa fa-send"></i>&nbsp; <span>Send Message</span></button>
-                    &nbsp; <a href="contact_us.html#" class="button">Clear</a> </div>
+                    &nbsp; <a href="#" class="button">Clear</a> </div>
                 </div>
               </div>
             </div>
@@ -86,38 +83,7 @@
   
   <div class="our-clients">
     <div class="container">
-      <div class="slider-items-products">
-        <div id="our-clients-slider" class="product-flexslider hidden-buttons">
-          <div class="slider-items slider-width-col6"> 
-            
-           <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand1.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand2.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand3.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand4.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand5.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand6.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            <!-- Item -->
-            <div class="item"> <a href="about_us.html#"><img src="<?php echo base_url();?>assets/images/brand7.png" alt="Image" class="grayscale"></a> </div>
-            <!-- End Item --> 
-            
-          </div>
-        </div>
-      </div>
+     
     </div>
   </div>
   

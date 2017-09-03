@@ -15,13 +15,14 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-4">
+         <div class="col-sm-4" style="text-align: left">
           <div class="footer-links">
-            <h3 class="links-title">Insider<a class="expander visible-xs" href="#TabBlock-3">+</a></h3>
+            <h3 class="links-title">Contact Us<a class="expander visible-xs" href="#TabBlock-3">+</a></h3>
             <div class="tabBlock" id="TabBlock-3">
               <ul class="list-links list-unstyled">
-                <li> <a href="sitemap.html">Sites Map </a> </li>
-                
+                <li><i class="fa fa-home"></i>Moi Avenue</li>
+                  <li><i class="fa fa-phone"></i><span>+254 725 250 052</span></li>
+                  <li><i class="fa fa-envelope"></i>Email: <span><a href="mailto:amonkinyua@gmail.com">amonkinyua@gmail.com</a></span></li>
               </ul>
             </div>
           </div>

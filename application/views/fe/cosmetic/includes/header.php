@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Piddiesmart &amp;clothingline</title>
+<title>Piddiesmart &amp;cosmetics</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
@@ -18,7 +18,23 @@
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/cosmetic/30.png">
 
 <!-- CSS Style -->
-<link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
+<!-- Favicon  -->
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/piddie/logo.png">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/simple-line-icons.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.carousel.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.transitions.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/flexslider.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/blog.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/slick.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/quick_view_popup.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/revolution-slider.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
+
 
 <link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
 
@@ -38,7 +54,7 @@
   </div>
   <ul>
     <li><a href="index.html" class="home1">Home</a></li>
-    <li><a href="clothingline" class="home1">Clothingline</a></li>
+    <li><a href="clothingline" class="home1">Clothing</a></li>
     <li><a href="shop_grid.html">Cosmetic</a></li>
     <li><a href="contact_us.html">Sound</a></li>
     <li><a href="about_us.html">About us</a></li>
@@ -62,7 +78,7 @@
             <!-- top links -->
             <div class="headerlinkmenu col-lg-8 col-md-7 col-sm-12 col-xs-12">
               <div class="links">
-                <div class="myaccount"><a title="My Account" href="account_page.html"><i class="fa fa-facebook fontwhite"></i><span class="hidden-xs fontwhite">Facebook</span></a></div>
+                <div class="myaccount"><a title="My Account" href="https://www.facebook.com/piddiesmart.cosmetics/"><i class="fa fa-facebook fontwhite"></i><span class="hidden-xs fontwhite">Facebook</span></a></div>
                 <div class="wishlist"><a title="My Wishlist" href="wishlist.html"><i class="fa fa-twitter fontwhite"></i><span class="hidden-xs fontwhite">Twitter</span></a></div>
                 <div class="blog"><a title="Blog" href="blog.html"><i class="fa fa-instagram fontwhite"></i><span class="hidden-xs fontwhite">Instagram</span></a></div>
                

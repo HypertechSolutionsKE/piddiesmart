@@ -5129,7 +5129,7 @@ ul.products-grid {
 }
 @media (max-width:479px) {
 .product-grid-area .products-grid .item {
-	width: 80%;
+	width: 100%;
 	float: none;
 	margin: 15px auto 15px
 }

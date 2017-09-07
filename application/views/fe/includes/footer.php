@@ -21,7 +21,7 @@
             <div class="tabBlock" id="TabBlock-3">
               <ul class="list-links list-unstyled">
                 <li><i class="fa fa-home"></i>Moi Avenue</li>
-                  <li><i class="fa fa-phone"></i><span>+254 725 250 052</span></li>
+                  <li><i class="fa fa-phone"></i><span> +254 718 246 853</span></li>
                   <li><i class="fa fa-envelope"></i>Email: <span><a href="mailto:amonkinyua@gmail.com">amonkinyua@gmail.com</a></span></li>
               </ul>
             </div>

@@ -17,7 +17,7 @@
           
           <div class="shop-inner">
             <div class="page-title">
-              <h2>Piddiesmart Clothingline</h2>
+              <h2>Piddiesmart Clothing</h2>
             </div>
             <div class="category-description">
              <div class="slider-items-products">

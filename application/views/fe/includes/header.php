@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Piddiesmart &amp;clothingline</title>
+<title>Piddiesmart &amp;clothing</title>
 <meta name="description" content="">
 
 <!-- Mobile specific metas  -->
@@ -16,11 +16,20 @@
 
 <!-- Favicon  -->
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/piddie/logo.png">
-
-<!-- CSS Style -->
-<link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
-
 <link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/simple-line-icons.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.carousel.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.transitions.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/flexslider.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/blog.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/slick.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/quick_view_popup.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/revolution-slider.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
 
 </head>
 
@@ -38,7 +47,7 @@
   </div>
   <ul>
     <li><a href="index.html" class="home1">Home</a></li>
-    <li><a href="clothingline" class="home1">Clothingline</a></li>
+    <li><a href="clothingline" class="home1">Clothing</a></li>
     <li><a href="shop_grid.html">Cosmetic</a></li>
     <li><a href="contact_us.html">Sound</a></li>
     <li><a href="about_us.html">About us</a></li>
@@ -56,7 +65,7 @@
           <div class="row" >
             <div class="col-lg-4 col-sm-4 hidden-xs"> 
               <!-- Default Welcome Message -->
-              <div class="welcome-msg fontwhite">Welcome to PiddieSmart Clothing Line </div>
+              <div class="welcome-msg fontwhite">Welcome to PiddieSmart Clothing</div>
             </div>
             
             <!-- top links -->
@@ -89,7 +98,7 @@
                 </li>
                 <li class="mt-root demo_custom_link_cms">
                   <div class="mt-root-item"><a href="clothingline">
-                    <div class="title title_font"><span class="title-text">Clothingline</span></div>
+                    <div class="title title_font"><span class="title-text">Clothing</span></div>
                     </a></div>
                   
                 </li>

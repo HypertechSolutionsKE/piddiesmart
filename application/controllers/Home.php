@@ -3,15 +3,18 @@
 class Home extends CI_Controller {
 	function __construct(){
 		parent::__construct();
-		$this->load->model('piddiesmart');
+		$this->load->model('main_model');		
 	}
 
-	function index(){
-	
+	function index(){	
+		$data['clothing_featured_products'] = $this->main_model->get_featured_products('Clothing');
+		$data['cosmetics_featured_products'] = $this->main_model->get_featured_products('Cosmetics');
+		$data['sound_featured_products'] = $this->main_model->get_featured_products('Sound');
+
 		$data['main_content'] = 'fe/home';
 		$this->load->view('fe/includes/template',$data);
 	}
-	function quickview(){
+/*	function quickview(){
 	
 		$data['main_content'] = 'fe/quick_view';
 		$this->load->view('fe/includes/template',$data);
@@ -50,7 +53,7 @@ class Home extends CI_Controller {
 			$resp = array('status' => 'ERR','message' => $q['dt']);
 		}
 		echo json_encode($resp);
-	}
+	}*/
 
 	
 }

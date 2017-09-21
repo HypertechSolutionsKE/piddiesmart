@@ -52,10 +52,10 @@
           <div class="col-sm-6 col-xs-12">
             <div class="payment">
               <ul>
-                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/images/visa.png"></a></li>
-                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/images/paypal.png"></a></li>
-                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/images/discover.png"></a></li>
-                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/images/master-card.png"></a></li>
+                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/fe/images/visa.png"></a></li>
+                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/fe/images/paypal.png"></a></li>
+                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/fe/images/discover.png"></a></li>
+                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/fe/images/master-card.png"></a></li>
               </ul>
             </div>
           </div>
@@ -79,25 +79,25 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script> 
 
 <!-- Mean Menu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery.meanmenu.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/jquery.meanmenu.min.js"></script> 
 
 <!--jquery-ui.min js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery-ui.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/jquery-ui.js"></script> 
 
 <!-- countdown js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/countdown.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/countdown.js"></script> 
 
 <!-- wow JS --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/wow.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/wow.min.js"></script> 
 
 <!-- mobile menu JS --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jtv-mobile-menu.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/jtv-mobile-menu.js"></script> 
 
 <!-- main js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/main.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/main.js"></script> 
 
 <!-- nivo slider js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/clothing/js/jquery.nivo.slider.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/clothing/js/jquery.nivo.slider.js"></script> 
 
 
 </body>

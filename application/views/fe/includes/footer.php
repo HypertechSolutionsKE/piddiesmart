@@ -52,10 +52,10 @@
           <div class="col-sm-6 col-xs-12">
             <div class="payment">
               <ul>
-                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/images/visa.png"></a></li>
-                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/images/paypal.png"></a></li>
-                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/images/discover.png"></a></li>
-                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/images/master-card.png"></a></li>
+                <li><a href="#"><img title="Visa" alt="Visa" src="<?php echo base_url();?>assets/fe/images/visa.png"></a></li>
+                <li><a href="#"><img title="Paypal" alt="Paypal" src="<?php echo base_url();?>assets/fe/images/paypal.png"></a></li>
+                <li><a href="#"><img title="Discover" alt="Discover" src="<?php echo base_url();?>assets/fe/images/discover.png"></a></li>
+                <li><a href="#"><img title="Master Card" alt="Master Card" src="<?php echo base_url();?>assets/fe/images/master-card.png"></a></li>
               </ul>
             </div>
           </div>
@@ -70,25 +70,29 @@
 </div>
 
 <!-- JS -- 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/general.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/general.js"></script>
    
 <!-- jquery js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/jquery.min.js"></script> 
 
 <!-- bootstrap js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script> 
-
-<!-- Slider Js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/revolution-slider.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/bootstrap.min.js"></script> 
 
 <!-- owl.carousel.min js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/owl.carousel.min.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/owl.carousel.min.js"></script> 
 
 <!-- bxslider js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery.bxslider.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/jquery.bxslider.js"></script>
+
+<!-- flexslider js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/jquery.flexslider.js"></script> 
+ 
+<!-- Slider Js --> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/revolution-slider.js"></script> 
+
 
 <!-- megamenu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/megamenu.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/megamenu.js"></script> 
 <script type="text/javascript">
   /* <![CDATA[ */   
   var mega_menu = '0';
@@ -97,16 +101,16 @@
   </script> 
 
 <!-- jquery.mobile-menu js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/mobile-menu.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/mobile-menu.js"></script> 
 
 <!--jquery-ui.min js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/jquery-ui.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/jquery-ui.js"></script> 
 
 <!-- main js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/main.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/main.js"></script> 
 
 <!-- countdown js --> 
-<script type="text/javascript" src="<?php echo base_url();?>assets/js/countdown.js"></script> 
+<script type="text/javascript" src="<?php echo base_url();?>assets/fe/js/countdown.js"></script> 
 
 <!-- Revolution slider --> 
 <script type="text/javascript">
@@ -206,5 +210,4 @@
     </script>
 </body>
 
-<!-- Mirrored from htmlsmart.justthemevalley.com/version2/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Aug 2017 10:29:14 GMT -->
 </html>

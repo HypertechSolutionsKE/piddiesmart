@@ -15,12 +15,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Favicon  -->
-<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/images/piddie/logo.png">
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>assets/fe/images/piddie/logo.png">
 
 <!-- CSS Style -->
-<link rel="stylesheet" href="<?php echo base_url();?>assets/style.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/fe/style.css">
 
-<link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome-4.7.0/css/font-awesome.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/fe/font-awesome-4.7.0/css/font-awesome.css">
 
 </head>
 
@@ -75,7 +75,7 @@
         <div class="row">
           <div class="col-sm-4 col-md-3 col-xs-4"> 
             <!-- Header Logo -->
-            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/images/piddie/logo.png" width="70"></a> </div>
+            <div class="logo"><a title="e-commerce" href="index.html"><img alt="e-commerce" src="<?php echo base_url();?>assets/fe/images/piddie/logo.png" width="70"></a> </div>
             <!-- End Header Logo --> 
           </div>
           <div class="col-md-9 col-sm-8 col-xs-8">
